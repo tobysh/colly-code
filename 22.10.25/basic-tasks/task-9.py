@@ -1,0 +1,1 @@
+print(f"Congratulations, {input("What\'s your name?\n>")}! You are now a {input("What\'s your favourite colour?\n>")} Space Janitor")
