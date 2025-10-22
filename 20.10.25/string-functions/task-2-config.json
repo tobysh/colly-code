@@ -1,0 +1,6 @@
+{
+    "replace":[
+        "bad","good"
+    ],
+    "findWord": "chicken"
+}

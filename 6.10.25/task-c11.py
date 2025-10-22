@@ -17,7 +17,7 @@ def add_student():
     try:
         grade = int(input("Enter the students grade: "))
         students.update({name: grade})
-    except TypeError:
+    except ValueError:
         print("Grade is a number, please do not use alphabetical characters.")
 
 def view_students():

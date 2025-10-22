@@ -1,0 +1,1 @@
+print(f"My favourite colour is {input("What is your favourite color?")} and my favourite food is {input("")}")
