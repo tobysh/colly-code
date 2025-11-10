@@ -1,16 +1,46 @@
 import re
 import string
 import os
+import json
 
 USER_FILE = "/workspaces/colly-code/3.11.25/development-tasks/users.json"
+
+def register(users: list):
+    user = create_user(name(), age(), email(), password())
+    user.update({"id": len(users)+1})
+    users.append(user)
+    save_users(users)
+    print_user(user)
+
+def login(users: list):
+    attempted_user = None
+    name = input("Enter your name: ")
+    for user in users:
+        if user.get("name") == name:
+            attempted_user = user
+    if attempted_user == None:
+        print("No user found")
+    else:
+        password = input("Enter your password: ")
+        if password == attempted_user["password"]:
+            print(f"Welcome, {name}")
 
 def get_users():
     if os.path.isfile(USER_FILE):
         with open(USER_FILE, "r") as file:
-            key = file.read()
+            user_json = file.read()
+            users = json.loads(user_json)
+            return users
     else:
         with open(USER_FILE, "w") as file:
-            file.write(key)
+            file.write("[]")
+            return []
+
+def save_users(users: dict):
+    user_json = json.dumps(users)
+    with open(USER_FILE, "w") as file:
+            file.write(user_json)
+            print("Saved users to users.json")
 
 def create_user(name: str, age: int, email: str, password: str):
     user = {
@@ -33,10 +63,16 @@ Password: {printable_password}
           """)
 
 def name():
+    users = get_users()
     name = input("Name: ").strip().capitalize()
     while name == "":
         print("Name cannot be empty.")
         name = input("Name: ").strip()
+    while True:
+        for user in users:
+            if user.get("name") == name:
+                print("Name is in use.")
+            name = input("Name: ").strip()
     return name
 
 def age():
@@ -79,11 +115,27 @@ def password():
             return password
         else:
             print("Passwords must match")
-    
-user_name = name()
-user_age = age()
-user_email = email()
-user_password = password()
 
-user = create_user(user_name, user_age, user_email, user_password)
-print_user(user)
+def menu():
+    menu_text = """
+=== Login or Register ===
+
+(1): Login
+(2): Register
+
+=========================
+"""
+    print(menu_text)
+    choice = input(">")
+    choice_map = {
+        "1": login,
+        "2": register
+    }
+    return(choice_map[choice])
+
+users = get_users()
+if len(users) == 0:
+    print("No users stored, redirecting to registration...")
+    register(users)
+
+menu()(users)

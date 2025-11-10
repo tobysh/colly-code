@@ -8,13 +8,17 @@ Create your own program with validation:
 • Print if the grade is valid
 """
 valid = False
-grade = input("Enter your grade: ").strip()
-if grade != "":
-    if grade.isdigit():
-        if int(grade) >= 0 and int(grade) <= 100:
-            valid = True
+while not valid:
+    grade = input("Enter your mark: ").strip()
+    if grade != "":
+        if grade.isdigit():
+            if int(grade) >= 0 and int(grade) <= 100:
+                valid = True
+            else:
+                print("mark out of range.")
+        else:
+            print("mark is not a valid integer.")
+    else:
+        print("mark is empty.")
 
-if valid:
-    print("Valid grade")
-else:
-    print("Invalid grade")
+print("Valid mark")
