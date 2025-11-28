@@ -1,0 +1,10 @@
+numbers = [13,10,13,2,8,12]
+
+target = int(input("Target: "))
+
+for i in range(len(numbers)):
+    if numbers[i] == target:
+        print(f"{target} is in list")
+        found = True
+if not found:
+    print(f"{target} not found")
