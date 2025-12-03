@@ -8,7 +8,7 @@ def load_words(path):
         words[i]=words[i].rstrip()
     return words
 
-adjectives = load_words("/workspaces/colly-code/20.10.25/random-tasks/task-1/wordLists/english-adjectives.txt")
+adjectives = load_words("C:\\Users\\2185810\Documents\\college\\colly-code\\october\\20.10.25\\random-tasks\\task-1\\wordLists\\english-adjectives.txt")
 nouns = load_words("/workspaces/colly-code/20.10.25/random-tasks/task-1/wordLists/english-nouns.txt")
 places = load_words("/workspaces/colly-code/20.10.25/random-tasks/task-1/wordLists/english-cities.txt")
 with open("/workspaces/colly-code/20.10.25/random-tasks/task-1/wordLists/infinitiv-verbs-list.json") as file:
