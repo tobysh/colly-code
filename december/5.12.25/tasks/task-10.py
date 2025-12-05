@@ -1,6 +1,5 @@
 from modules.get_file_path import get_path
 import random
-import os
 
 file_path = get_path("assets", "quiz.txt")
 
