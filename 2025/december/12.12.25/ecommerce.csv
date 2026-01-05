@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Category,Product_Price,Quantity,Total_Amount,Discount,Payment_Method,Order_Date,Location
+O00001,Customer_1,Home & Garden,£155.28,1,£155.28,17.0%,Credit Card,04/08/2025,London
+O00002,Customer_2,Electronics,£33.54,10,£335.4,10.0%,PayPal,26/03/2025,Liverpool
+O00003,Customer_3,Sports,£454.05,5,£2270.25,13.0%,Bank Transfer,04/08/2025,Manchester
+O00004,Customer_4,Books,£17.37,2,£34.74,12.0%,Debit Card,01/05/2025,Liverpool
+O00005,Customer_5,Toys,£491.51,8,£3932.08,3.0%,Credit Card,22/07/2025,Birmingham
+O00006,Customer_6,Groceries,£280.93,7,£1966.51,5.0%,Credit Card,09/02/2025,Leeds
+O00007,Customer_7,Home & Garden,£368.4,7,£2578.8,11.0%,Bank Transfer,01/01/2025,Leeds
+O00008,Customer_8,Electronics,£407.01,10,£4070.1,4.0%,Bank Transfer,21/08/2025,London
+O00009,Customer_9,Groceries,£453.33,3,£1359.99,8.0%,Bank Transfer,13/09/2025,London
+O00010,Customer_10,Toys,£319.77,7,£2238.39,11.0%,PayPal,08/03/2025,Manchester
+O00011,Customer_11,Electronics,£377.53,5,£1887.65,12.0%,Bank Transfer,07/10/2025,Leeds
+O00012,Customer_12,Clothing,£50.25,8,£402.0,5.0%,Credit Card,06/07/2025,Manchester
+O00013,Customer_13,Beauty,£372.57,6,£2235.42,20.0%,Bank Transfer,20/07/2025,Birmingham
+O00014,Customer_14,Beauty,£166.01,2,£332.02,9.0%,PayPal,08/11/2025,London
+O00015,Customer_15,Toys,£450.21,1,£450.21,1.0%,Bank Transfer,17/01/2025,Leeds
+O00016,Customer_16,Home & Garden,£353.87,1,£353.87,9.0%,PayPal,04/10/2025,London
+O00017,Customer_17,Beauty,£385.47,1,£385.47,10.0%,Debit Card,14/05/2025,Liverpool
+O00018,Customer_18,Electronics,£93.32,3,£279.96,5.0%,Credit Card,03/09/2025,London
+O00019,Customer_19,Beauty,£149.26,1,£149.26,7.000000000000001%,Credit Card,19/03/2025,Birmingham
+O00020,Customer_20,Clothing,£479.66,5,£2398.3,1.0%,Credit Card,06/12/2024,Manchester
+O00021,Customer_21,Beauty,£116.62,9,£1049.58,1.0%,Debit Card,16/11/2025,London
+O00022,Customer_22,Sports,£284.43,2,£568.86,13.0%,Credit Card,04/06/2025,Liverpool
+O00023,Customer_23,Beauty,£92.06,3,£276.18,22.0%,Debit Card,26/10/2025,London
+O00024,Customer_24,Books,£258.67,8,£2069.36,20.0%,PayPal,09/09/2025,Leeds
+O00025,Customer_25,Beauty,£357.23,7,£2500.61,18.0%,Credit Card,21/11/2025,Birmingham
+O00026,Customer_26,Groceries,£123.12,10,£1231.2,20.0%,Credit Card,21/07/2025,Manchester
+O00027,Customer_27,Toys,£308.41,1,£308.41,7.000000000000001%,Debit Card,05/11/2025,Liverpool
+O00028,Customer_28,Sports,£363.02,8,£2904.16,24.0%,Bank Transfer,06/08/2025,Liverpool
+O00029,Customer_29,Books,£364.09,7,£2548.63,14.000000000000002%,Bank Transfer,04/01/2025,Leeds
+O00030,Customer_30,Clothing,£452.0,10,£4520.0,13.0%,Bank Transfer,11/12/2024,Liverpool
+O00031,Customer_31,Beauty,£166.75,9,£1500.75,18.0%,Credit Card,23/07/2025,Manchester
+O00032,Customer_32,Sports,£109.69,1,£109.69,9.0%,Debit Card,21/08/2025,Birmingham
+O00033,Customer_33,Home & Garden,£326.92,3,£980.76,24.0%,Credit Card,21/06/2025,Manchester
+O00034,Customer_34,Clothing,£22.52,7,£157.64,5.0%,Credit Card,14/06/2025,Birmingham
+O00035,Customer_35,Electronics,£299.6,5,£1498.0,13.0%,PayPal,29/08/2025,Birmingham
+O00036,Customer_36,Groceries,£208.63,6,£1251.78,19.0%,Credit Card,16/05/2025,Leeds
+O00037,Customer_37,Toys,£227.86,7,£1595.02,7.000000000000001%,Bank Transfer,02/11/2025,Leeds
+O00038,Customer_38,Groceries,£389.23,6,£2335.38,12.0%,Bank Transfer,20/03/2025,London
+O00039,Customer_39,Sports,£450.17,6,£2701.02,1.0%,Bank Transfer,20/10/2025,Manchester
+O00040,Customer_40,Sports,£64.27,2,£128.54,20.0%,Credit Card,14/01/2025,Leeds
+O00041,Customer_41,Groceries,£458.16,4,£1832.64,21.0%,Bank Transfer,11/08/2025,Leeds
+O00042,Customer_42,Books,£347.65,10,£3476.5,24.0%,Bank Transfer,06/09/2025,Leeds
+O00043,Customer_43,Sports,£44.53,6,£267.18,19.0%,PayPal,18/04/2025,Birmingham
+O00044,Customer_44,Home & Garden,£421.22,6,£2527.32,16.0%,Credit Card,11/10/2025,Manchester
+O00045,Customer_45,Electronics,£245.59,10,£2455.9,1.0%,Debit Card,01/05/2025,Liverpool
+O00046,Customer_46,Electronics,£434.85,10,£4348.5,22.0%,Bank Transfer,18/05/2025,London
+O00047,Customer_47,Toys,£381.21,2,£762.42,18.0%,PayPal,31/05/2025,London
+O00048,Customer_48,Books,£220.96,7,£1546.72,4.0%,Bank Transfer,15/08/2025,Leeds
+O00049,Customer_49,Toys,£99.15,1,£99.15,12.0%,Credit Card,25/09/2025,Manchester
+O00050,Customer_50,Home & Garden,£429.44,4,£1717.76,12.0%,Bank Transfer,26/11/2025,Leeds
+O00051,Customer_51,Beauty,£55.8,6,£334.8,23.0%,Debit Card,03/04/2025,Birmingham
+O00052,Customer_52,Books,£394.06,9,£3546.54,7.000000000000001%,Debit Card,12/07/2025,Birmingham
+O00053,Customer_53,Home & Garden,£105.54,6,£633.24,9.0%,Bank Transfer,21/07/2025,London
+O00054,Customer_54,Toys,£451.0,6,£2706.0,24.0%,Credit Card,22/04/2025,London
+O00055,Customer_55,Books,£361.46,4,£1445.84,18.0%,Debit Card,14/07/2025,Leeds
+O00056,Customer_56,Groceries,£171.19,1,£171.19,24.0%,Debit Card,01/04/2025,Leeds
+O00057,Customer_57,Books,£473.19,10,£4731.9,17.0%,Debit Card,12/06/2025,Leeds
+O00058,Customer_58,Home & Garden,£386.28,5,£1931.4,13.0%,PayPal,14/06/2025,London
+O00059,Customer_59,Sports,£228.38,1,£228.38,22.0%,Bank Transfer,10/02/2025,Liverpool
+O00060,Customer_60,Electronics,£109.99,2,£219.98,20.0%,PayPal,28/12/2024,Liverpool
+O00061,Customer_61,Sports,£44.34,2,£88.68,22.0%,PayPal,22/07/2025,Birmingham
+O00062,Customer_62,Home & Garden,£11.64,8,£93.12,21.0%,Bank Transfer,24/11/2025,Manchester
+O00063,Customer_63,Toys,£124.23,3,£372.69,14.000000000000002%,PayPal,11/05/2025,Birmingham
+O00064,Customer_64,Toys,£428.89,9,£3860.01,19.0%,Debit Card,03/03/2025,Birmingham
+O00065,Customer_65,Toys,£190.39,8,£1523.12,17.0%,Bank Transfer,28/01/2025,London
+O00066,Customer_66,Electronics,£236.65,2,£473.3,22.0%,Credit Card,15/04/2025,Leeds
+O00067,Customer_67,Groceries,£185.32,6,£1111.92,3.0%,PayPal,11/01/2025,Leeds
+O00068,Customer_68,Home & Garden,£85.72,4,£342.88,3.0%,Credit Card,05/11/2025,London
+O00069,Customer_69,Groceries,£292.46,2,£584.92,1.0%,Bank Transfer,10/02/2025,Leeds
+O00070,Customer_70,Clothing,£492.47,6,£2954.82,22.0%,Bank Transfer,26/08/2025,Manchester
+O00071,Customer_71,Books,£435.61,10,£4356.1,10.0%,Credit Card,06/02/2025,Manchester
+O00072,Customer_72,Beauty,£490.15,2,£980.3,14.000000000000002%,Debit Card,19/09/2025,London
+O00073,Customer_73,Sports,£199.58,7,£1397.06,3.0%,PayPal,21/03/2025,Manchester
+O00074,Customer_74,Electronics,£143.49,9,£1291.41,23.0%,Bank Transfer,12/02/2025,Birmingham
+O00075,Customer_75,Books,£457.41,9,£4116.69,6.0%,Credit Card,11/08/2025,Manchester
+O00076,Customer_76,Beauty,£262.61,4,£1050.44,6.0%,Debit Card,24/07/2025,London
+O00077,Customer_77,Sports,£243.87,3,£731.61,15.0%,Credit Card,11/02/2025,Manchester
+O00078,Customer_78,Toys,£406.72,2,£813.44,18.0%,Credit Card,24/06/2025,Leeds
+O00079,Customer_79,Toys,£263.56,4,£1054.24,2.0%,PayPal,12/07/2025,London
+O00080,Customer_80,Electronics,£384.64,5,£1923.2,1.0%,Debit Card,13/07/2025,London
+O00081,Customer_81,Electronics,£371.14,7,£2597.98,4.0%,Credit Card,07/12/2024,Birmingham
+O00082,Customer_82,Toys,£272.2,1,£272.2,4.0%,Credit Card,19/07/2025,Liverpool
+O00083,Customer_83,Sports,£326.67,7,£2286.69,16.0%,PayPal,05/05/2025,Leeds
+O00084,Customer_84,Toys,£290.58,3,£871.74,14.000000000000002%,Debit Card,24/12/2024,Birmingham
+O00085,Customer_85,Home & Garden,£255.8,4,£1023.2,22.0%,Credit Card,22/09/2025,Birmingham
+O00086,Customer_86,Electronics,£193.93,5,£969.65,14.000000000000002%,Bank Transfer,22/06/2025,Birmingham
+O00087,Customer_87,Books,£99.39,9,£894.51,13.0%,Bank Transfer,01/06/2025,Manchester
+O00088,Customer_88,Books,£263.96,4,£1055.84,12.0%,Debit Card,26/09/2025,Liverpool
+O00089,Customer_89,Beauty,£38.01,9,£342.09,7.000000000000001%,Debit Card,06/09/2025,Liverpool
+O00090,Customer_90,Toys,£76.55,1,£76.55,3.0%,Debit Card,11/02/2025,London
+O00091,Customer_91,Home & Garden,£107.49,4,£429.96,2.0%,Debit Card,15/01/2025,Liverpool
+O00092,Customer_92,Groceries,£332.47,5,£1662.35,19.0%,Bank Transfer,26/05/2025,London
+O00093,Customer_93,Books,£316.42,9,£2847.78,4.0%,Credit Card,30/06/2025,Birmingham
+O00094,Customer_94,Clothing,£142.87,3,£428.61,2.0%,Credit Card,08/08/2025,Manchester
+O00095,Customer_95,Toys,£422.4,3,£1267.2,14.000000000000002%,Bank Transfer,05/05/2025,Leeds
+O00096,Customer_96,Sports,£69.3,1,£69.3,10.0%,Debit Card,20/05/2025,Leeds
+O00097,Customer_97,Home & Garden,£354.04,10,£3540.4,18.0%,Debit Card,25/12/2024,Manchester
+O00098,Customer_98,Electronics,£37.58,5,£187.9,12.0%,Debit Card,15/11/2025,Leeds
+O00099,Customer_99,Beauty,£177.51,7,£1242.57,19.0%,Debit Card,07/09/2025,Manchester
+O00100,Customer_100,Beauty,£177.32,8,£1418.56,20.0%,PayPal,14/06/2025,Leeds
+O00101,Customer_101,Books,£142.83,2,£285.66,21.0%,Bank Transfer,15/05/2025,Leeds
+O00102,Customer_102,Beauty,£45.93,8,£367.44,17.0%,Credit Card,30/01/2025,London
+O00103,Customer_103,Sports,£320.01,3,£960.03,22.0%,PayPal,30/12/2024,Manchester
+O00104,Customer_104,Groceries,£305.85,10,£3058.5,1.0%,Credit Card,02/10/2025,Leeds
+O00105,Customer_105,Toys,£183.04,7,£1281.28,22.0%,Debit Card,05/06/2025,Manchester
+O00106,Customer_106,Clothing,£283.45,5,£1417.25,12.0%,Credit Card,14/07/2025,London
+O00107,Customer_107,Clothing,£137.14,2,£274.28,8.0%,Credit Card,20/01/2025,Birmingham
+O00108,Customer_108,Groceries,£286.12,9,£2575.08,17.0%,Bank Transfer,24/02/2025,Leeds
+O00109,Customer_109,Beauty,£50.98,5,£254.9,16.0%,PayPal,05/02/2025,London
+O00110,Customer_110,Clothing,£466.43,7,£3265.01,6.0%,Debit Card,29/07/2025,Liverpool
+O00111,Customer_111,Electronics,£326.18,2,£652.36,1.0%,Credit Card,15/03/2025,Liverpool
+O00112,Customer_112,Sports,£260.01,9,£2340.09,22.0%,PayPal,04/01/2025,London
+O00113,Customer_113,Toys,£32.74,3,£98.22,2.0%,Credit Card,12/03/2025,Liverpool
+O00114,Customer_114,Electronics,£9.75,2,£19.5,14.000000000000002%,Credit Card,04/01/2025,Liverpool
+O00115,Customer_115,Clothing,£224.11,7,£1568.77,15.0%,Debit Card,17/04/2025,Birmingham
+O00116,Customer_116,Clothing,£18.31,3,£54.93,6.0%,Credit Card,06/09/2025,Liverpool
+O00117,Customer_117,Home & Garden,£117.55,10,£1175.5,2.0%,PayPal,25/02/2025,Manchester
+O00118,Customer_118,Beauty,£427.79,8,£3422.32,2.0%,Credit Card,05/08/2025,London
+O00119,Customer_119,Books,£260.6,9,£2345.4,21.0%,Debit Card,08/06/2025,Birmingham
+O00120,Customer_120,Books,£48.56,9,£437.04,22.0%,Bank Transfer,22/05/2025,Birmingham
+O00121,Customer_121,Toys,£39.97,8,£319.76,22.0%,Credit Card,25/04/2025,Liverpool
+O00122,Customer_122,Beauty,£349.52,8,£2796.16,5.0%,Bank Transfer,17/09/2025,London
+O00123,Customer_123,Sports,£298.15,9,£2683.35,4.0%,Credit Card,28/04/2025,London
+O00124,Customer_124,Home & Garden,£208.23,9,£1874.07,16.0%,PayPal,11/09/2025,Birmingham
+O00125,Customer_125,Home & Garden,£58.42,3,£175.26,16.0%,Bank Transfer,19/07/2025,Liverpool
+O00126,Customer_126,Sports,£177.41,1,£177.41,14.000000000000002%,Debit Card,12/06/2025,Manchester
+O00127,Customer_127,Clothing,£397.43,9,£3576.87,21.0%,Bank Transfer,07/11/2025,Leeds
+O00128,Customer_128,Electronics,£420.02,8,£3360.16,15.0%,Debit Card,11/03/2025,Leeds
+O00129,Customer_129,Beauty,£240.25,8,£1922.0,4.0%,Bank Transfer,19/05/2025,Leeds
+O00130,Customer_130,Clothing,£262.15,7,£1835.05,2.0%,PayPal,12/07/2025,London
+O00131,Customer_131,Clothing,£322.0,1,£322.0,12.0%,Debit Card,27/11/2025,Leeds
+O00132,Customer_132,Clothing,£353.94,6,£2123.64,4.0%,Bank Transfer,19/04/2025,London
+O00133,Customer_133,Groceries,£223.71,10,£2237.1,19.0%,Bank Transfer,20/03/2025,London
+O00134,Customer_134,Sports,£481.22,9,£4330.98,13.0%,Credit Card,03/09/2025,Manchester
+O00135,Customer_135,Sports,£435.81,1,£435.81,17.0%,Debit Card,08/01/2025,Leeds
+O00136,Customer_136,Beauty,£249.56,8,£1996.48,7.000000000000001%,Credit Card,22/06/2025,Birmingham
+O00137,Customer_137,Beauty,£246.47,8,£1971.76,16.0%,Bank Transfer,20/09/2025,Liverpool
+O00138,Customer_138,Electronics,£335.13,7,£2345.91,2.0%,Credit Card,07/11/2025,London
+O00139,Customer_139,Electronics,£221.1,9,£1989.9,23.0%,Credit Card,28/06/2025,Leeds
+O00140,Customer_140,Toys,£134.85,5,£674.25,19.0%,Debit Card,01/03/2025,Manchester
+O00141,Customer_141,Beauty,£230.15,2,£460.3,14.000000000000002%,Debit Card,13/06/2025,Manchester
+O00142,Customer_142,Toys,£411.63,10,£4116.3,21.0%,PayPal,11/10/2025,London
+O00143,Customer_143,Electronics,£469.46,7,£3286.22,17.0%,PayPal,04/04/2025,Manchester
+O00144,Customer_144,Toys,£100.35,5,£501.75,17.0%,PayPal,13/08/2025,London
+O00145,Customer_145,Beauty,£110.61,1,£110.61,20.0%,Credit Card,13/08/2025,Liverpool
+O00146,Customer_146,Beauty,£223.14,2,£446.28,25.0%,Credit Card,23/11/2025,Birmingham
+O00147,Customer_147,Clothing,£447.63,4,£1790.52,4.0%,Bank Transfer,03/11/2025,Birmingham
+O00148,Customer_148,Clothing,£307.85,1,£307.85,25.0%,Debit Card,22/07/2025,Birmingham
+O00149,Customer_149,Toys,£311.99,10,£3119.9,11.0%,Debit Card,19/02/2025,Leeds
+O00150,Customer_150,Beauty,£187.79,1,£187.79,23.0%,Debit Card,06/09/2025,Manchester
+O00151,Customer_151,Clothing,£147.31,1,£147.31,3.0%,Credit Card,29/03/2025,Manchester
+O00152,Customer_152,Toys,£273.7,5,£1368.5,4.0%,Bank Transfer,21/05/2025,Birmingham
+O00153,Customer_153,Electronics,£197.01,5,£985.05,7.000000000000001%,Credit Card,04/05/2025,Birmingham
+O00154,Customer_154,Groceries,£329.94,2,£659.88,17.0%,Credit Card,03/07/2025,Leeds
+O00155,Customer_155,Toys,£390.74,9,£3516.66,22.0%,PayPal,21/11/2025,Liverpool
+O00156,Customer_156,Electronics,£283.65,5,£1418.25,6.0%,Debit Card,12/11/2025,Liverpool
+O00157,Customer_157,Clothing,£239.52,6,£1437.12,6.0%,Credit Card,14/01/2025,Birmingham
+O00158,Customer_158,Toys,£399.99,3,£1199.97,20.0%,Credit Card,09/02/2025,London
+O00159,Customer_159,Toys,£194.96,1,£194.96,7.000000000000001%,Debit Card,10/06/2025,Birmingham
+O00160,Customer_160,Books,£315.6,9,£2840.4,0.0%,Bank Transfer,25/09/2025,Liverpool
+O00161,Customer_161,Clothing,£182.72,5,£913.6,15.0%,PayPal,11/10/2025,Birmingham
+O00162,Customer_162,Books,£323.62,10,£3236.2,23.0%,PayPal,07/11/2025,London
+O00163,Customer_163,Home & Garden,£38.23,6,£229.38,17.0%,PayPal,11/06/2025,Birmingham
+O00164,Customer_164,Clothing,£72.75,8,£582.0,12.0%,Credit Card,04/09/2025,Liverpool
+O00165,Customer_165,Sports,£400.41,6,£2402.46,20.0%,Credit Card,11/12/2024,Manchester
+O00166,Customer_166,Books,£72.12,4,£288.48,10.0%,PayPal,22/01/2025,Birmingham
+O00167,Customer_167,Electronics,£93.71,6,£562.26,20.0%,PayPal,13/09/2025,Manchester
+O00168,Customer_168,Groceries,£134.59,1,£134.59,7.000000000000001%,PayPal,09/03/2025,Manchester
+O00169,Customer_169,Clothing,£97.38,3,£292.14,7.000000000000001%,PayPal,27/05/2025,Manchester
+O00170,Customer_170,Sports,£88.44,7,£619.08,24.0%,Bank Transfer,13/04/2025,Birmingham
+O00171,Customer_171,Sports,£286.14,9,£2575.26,11.0%,Credit Card,05/01/2025,Leeds
+O00172,Customer_172,Electronics,£92.09,10,£920.9,3.0%,Bank Transfer,14/02/2025,Leeds
+O00173,Customer_173,Sports,£201.63,1,£201.63,20.0%,Bank Transfer,10/12/2024,Manchester
+O00174,Customer_174,Books,£27.72,7,£194.04,23.0%,PayPal,31/12/2024,Manchester
+O00175,Customer_175,Groceries,£218.61,2,£437.22,2.0%,Debit Card,29/07/2025,Leeds
+O00176,Customer_176,Beauty,£460.41,5,£2302.05,23.0%,Credit Card,25/07/2025,Leeds
+O00177,Customer_177,Home & Garden,£82.4,9,£741.6,9.0%,PayPal,12/09/2025,Birmingham
+O00178,Customer_178,Clothing,£81.34,9,£732.06,1.0%,Bank Transfer,27/05/2025,Manchester
+O00179,Customer_179,Electronics,£327.92,2,£655.84,2.0%,Bank Transfer,28/10/2025,Manchester
+O00180,Customer_180,Home & Garden,£331.54,9,£2983.86,10.0%,Debit Card,20/07/2025,Birmingham
+O00181,Customer_181,Clothing,£419.95,9,£3779.55,3.0%,Debit Card,03/03/2025,Manchester
+O00182,Customer_182,Toys,£41.72,5,£208.6,21.0%,Bank Transfer,23/07/2025,Liverpool
+O00183,Customer_183,Clothing,£346.67,7,£2426.69,21.0%,Credit Card,31/08/2025,London
+O00184,Customer_184,Home & Garden,£333.9,4,£1335.6,23.0%,Debit Card,04/02/2025,Liverpool
+O00185,Customer_185,Sports,£310.85,6,£1865.1,9.0%,Bank Transfer,13/01/2025,Manchester
+O00186,Customer_186,Beauty,£226.24,4,£904.96,20.0%,Bank Transfer,20/07/2025,London
+O00187,Customer_187,Groceries,£57.75,1,£57.75,14.000000000000002%,Debit Card,14/04/2025,Leeds
+O00188,Customer_188,Sports,£16.57,2,£33.14,12.0%,Credit Card,22/03/2025,Manchester
+O00189,Customer_189,Beauty,£402.1,2,£804.2,7.000000000000001%,Credit Card,02/05/2025,Manchester
+O00190,Customer_190,Electronics,£90.17,2,£180.34,17.0%,Debit Card,27/05/2025,London
+O00191,Customer_191,Groceries,£94.88,10,£948.8,14.000000000000002%,Bank Transfer,29/05/2025,Birmingham
+O00192,Customer_192,Groceries,£177.17,8,£1417.36,9.0%,Credit Card,04/03/2025,London
+O00193,Customer_193,Clothing,£35.07,1,£35.07,5.0%,Bank Transfer,20/01/2025,Birmingham
+O00194,Customer_194,Electronics,£198.6,10,£1986.0,17.0%,Debit Card,04/09/2025,Leeds
+O00195,Customer_195,Toys,£133.84,10,£1338.4,13.0%,Debit Card,22/07/2025,London
+O00196,Customer_196,Sports,£359.44,5,£1797.2,10.0%,Debit Card,02/12/2024,London
+O00197,Customer_197,Books,£329.85,2,£659.7,24.0%,Bank Transfer,20/09/2025,Manchester
+O00198,Customer_198,Books,£44.79,8,£358.32,24.0%,PayPal,07/04/2025,Birmingham
+O00199,Customer_199,Clothing,£143.65,1,£143.65,13.0%,PayPal,09/01/2025,Leeds
+O00200,Customer_200,Toys,£347.86,3,£1043.58,18.0%,Debit Card,08/09/2025,Liverpool
+O00201,Customer_201,Home & Garden,£220.12,7,£1540.84,23.0%,Debit Card,25/04/2025,London
+O00202,Customer_202,Books,£309.28,9,£2783.52,23.0%,Bank Transfer,25/03/2025,London
+O00203,Customer_203,Books,£120.67,8,£965.36,8.0%,Bank Transfer,18/05/2025,London
+O00204,Customer_204,Sports,£200.77,5,£1003.85,23.0%,PayPal,09/09/2025,Liverpool
+O00205,Customer_205,Electronics,£104.06,1,£104.06,3.0%,Debit Card,07/01/2025,Liverpool
+O00206,Customer_206,Clothing,£410.17,6,£2461.02,16.0%,Bank Transfer,29/09/2025,Leeds
+O00207,Customer_207,Beauty,£93.82,5,£469.1,17.0%,Debit Card,07/01/2025,Liverpool
+O00208,Customer_208,Books,£185.1,10,£1851.0,16.0%,Debit Card,04/10/2025,London
+O00209,Customer_209,Electronics,£404.02,7,£2828.14,11.0%,PayPal,20/10/2025,Birmingham
+O00210,Customer_210,Clothing,£55.77,7,£390.39,5.0%,Credit Card,10/06/2025,London
+O00211,Customer_211,Electronics,£470.83,2,£941.66,14.000000000000002%,Credit Card,22/09/2025,Leeds
+O00212,Customer_212,Beauty,£356.44,9,£3207.96,20.0%,Bank Transfer,09/02/2025,Manchester
+O00213,Customer_213,Home & Garden,£51.59,2,£103.18,2.0%,Bank Transfer,24/12/2024,Manchester
+O00214,Customer_214,Toys,£296.96,10,£2969.6,8.0%,Credit Card,04/04/2025,Leeds
+O00215,Customer_215,Groceries,£38.7,9,£348.3,20.0%,Credit Card,29/05/2025,Liverpool
+O00216,Customer_216,Sports,£485.01,9,£4365.09,18.0%,Bank Transfer,29/10/2025,London
+O00217,Customer_217,Groceries,£225.0,4,£900.0,9.0%,Credit Card,12/06/2025,Liverpool
+O00218,Customer_218,Sports,£310.21,2,£620.42,5.0%,PayPal,03/06/2025,Manchester
+O00219,Customer_219,Clothing,£147.01,8,£1176.08,13.0%,PayPal,29/08/2025,Manchester
+O00220,Customer_220,Beauty,£384.2,9,£3457.8,4.0%,Bank Transfer,27/09/2025,Leeds
+O00221,Customer_221,Beauty,£360.48,3,£1081.44,3.0%,Credit Card,12/09/2025,London
+O00222,Customer_222,Toys,£455.06,9,£4095.54,22.0%,Credit Card,29/03/2025,Leeds
+O00223,Customer_223,Electronics,£27.31,10,£273.1,1.0%,Debit Card,25/10/2025,Leeds
+O00224,Customer_224,Groceries,£227.47,5,£1137.35,0.0%,Bank Transfer,06/04/2025,London
+O00225,Customer_225,Books,£30.92,10,£309.2,15.0%,PayPal,09/06/2025,Liverpool
+O00226,Customer_226,Beauty,£274.13,8,£2193.04,6.0%,PayPal,01/04/2025,Liverpool
+O00227,Customer_227,Books,£83.59,8,£668.72,4.0%,Debit Card,22/01/2025,London
+O00228,Customer_228,Groceries,£139.47,6,£836.82,10.0%,Credit Card,22/12/2024,Birmingham
+O00229,Customer_229,Electronics,£341.79,3,£1025.37,8.0%,Bank Transfer,16/11/2025,Liverpool
+O00230,Customer_230,Beauty,£133.82,4,£535.28,16.0%,Credit Card,13/03/2025,Liverpool
+O00231,Customer_231,Electronics,£49.9,3,£149.7,21.0%,PayPal,17/04/2025,Manchester
+O00232,Customer_232,Electronics,£417.83,2,£835.66,15.0%,Bank Transfer,10/12/2024,Liverpool
+O00233,Customer_233,Electronics,£379.17,1,£379.17,14.000000000000002%,Bank Transfer,05/04/2025,Manchester
+O00234,Customer_234,Groceries,£119.76,4,£479.04,23.0%,PayPal,24/05/2025,London
+O00235,Customer_235,Sports,£380.5,7,£2663.5,12.0%,Bank Transfer,02/08/2025,Liverpool
+O00236,Customer_236,Toys,£323.37,1,£323.37,9.0%,Bank Transfer,04/08/2025,Birmingham
+O00237,Customer_237,Toys,£223.12,8,£1784.96,9.0%,PayPal,15/12/2024,Leeds
+O00238,Customer_238,Toys,£288.73,3,£866.19,20.0%,Bank Transfer,18/08/2025,London
+O00239,Customer_239,Electronics,£332.62,8,£2660.96,15.0%,Debit Card,10/01/2025,Manchester
+O00240,Customer_240,Beauty,£257.57,5,£1287.85,21.0%,Credit Card,27/06/2025,Birmingham
+O00241,Customer_241,Beauty,£73.03,6,£438.18,11.0%,PayPal,08/11/2025,Birmingham
+O00242,Customer_242,Groceries,£115.44,5,£577.2,4.0%,Debit Card,04/01/2025,Birmingham
+O00243,Customer_243,Beauty,£438.04,10,£4380.4,11.0%,Credit Card,17/11/2025,Birmingham
+O00244,Customer_244,Clothing,£297.03,5,£1485.15,1.0%,Bank Transfer,16/09/2025,Leeds
+O00245,Customer_245,Electronics,£443.42,5,£2217.1,18.0%,Debit Card,06/05/2025,Leeds
+O00246,Customer_246,Books,£155.36,8,£1242.88,14.000000000000002%,Credit Card,16/05/2025,Liverpool
+O00247,Customer_247,Sports,£316.35,6,£1898.1,11.0%,Bank Transfer,07/01/2025,Leeds
+O00248,Customer_248,Home & Garden,£134.22,7,£939.54,1.0%,PayPal,23/03/2025,London
+O00249,Customer_249,Sports,£390.36,3,£1171.08,12.0%,PayPal,28/02/2025,London
+O00250,Customer_250,Electronics,£396.59,2,£793.18,18.0%,Debit Card,25/02/2025,Leeds
+O00251,Customer_251,Toys,£65.39,6,£392.34,21.0%,Bank Transfer,10/01/2025,Manchester
+O00252,Customer_252,Home & Garden,£433.63,7,£3035.41,5.0%,PayPal,24/06/2025,London
+O00253,Customer_253,Beauty,£159.78,8,£1278.24,14.000000000000002%,PayPal,05/08/2025,London
+O00254,Customer_254,Sports,£245.67,9,£2211.03,0.0%,Credit Card,01/09/2025,Manchester
+O00255,Customer_255,Clothing,£221.23,1,£221.23,2.0%,Debit Card,06/11/2025,Liverpool
+O00256,Customer_256,Electronics,£480.14,6,£2880.84,9.0%,PayPal,23/10/2025,Liverpool
+O00257,Customer_257,Electronics,£65.49,2,£130.98,21.0%,Bank Transfer,02/12/2025,London
+O00258,Customer_258,Groceries,£460.31,1,£460.31,14.000000000000002%,Bank Transfer,31/03/2025,London
+O00259,Customer_259,Home & Garden,£322.94,8,£2583.52,5.0%,Credit Card,18/03/2025,Birmingham
+O00260,Customer_260,Toys,£490.12,6,£2940.72,22.0%,Credit Card,30/07/2025,Manchester
+O00261,Customer_261,Home & Garden,£160.34,9,£1443.06,2.0%,Credit Card,02/05/2025,Leeds
+O00262,Customer_262,Toys,£363.69,1,£363.69,8.0%,Credit Card,31/07/2025,Liverpool
+O00263,Customer_263,Electronics,£144.02,6,£864.12,16.0%,Bank Transfer,08/10/2025,London
+O00264,Customer_264,Books,£191.51,8,£1532.08,4.0%,Bank Transfer,11/07/2025,Leeds
+O00265,Customer_265,Clothing,£65.36,3,£196.08,10.0%,PayPal,01/05/2025,Birmingham
+O00266,Customer_266,Toys,£162.25,1,£162.25,0.0%,Bank Transfer,06/04/2025,Manchester
+O00267,Customer_267,Groceries,£70.94,5,£354.7,24.0%,Bank Transfer,01/06/2025,London
+O00268,Customer_268,Beauty,£466.03,3,£1398.09,3.0%,Credit Card,20/08/2025,Leeds
+O00269,Customer_269,Beauty,£150.36,8,£1202.88,25.0%,Credit Card,14/11/2025,London
+O00270,Customer_270,Toys,£390.66,9,£3515.94,14.000000000000002%,Debit Card,07/04/2025,Liverpool
+O00271,Customer_271,Electronics,£382.69,2,£765.38,9.0%,Debit Card,06/06/2025,Birmingham
+O00272,Customer_272,Beauty,£478.66,10,£4786.6,11.0%,Bank Transfer,10/11/2025,Leeds
+O00273,Customer_273,Home & Garden,£160.6,4,£642.4,13.0%,PayPal,29/05/2025,Birmingham
+O00274,Customer_274,Sports,£488.82,9,£4399.38,7.000000000000001%,Debit Card,25/05/2025,London
+O00275,Customer_275,Electronics,£101.28,2,£202.56,14.000000000000002%,PayPal,01/11/2025,Leeds
+O00276,Customer_276,Electronics,£105.51,5,£527.55,11.0%,Credit Card,27/06/2025,Birmingham
+O00277,Customer_277,Clothing,£5.13,6,£30.78,11.0%,PayPal,13/02/2025,Liverpool
+O00278,Customer_278,Clothing,£145.25,2,£290.5,7.000000000000001%,Bank Transfer,04/08/2025,Liverpool
+O00279,Customer_279,Toys,£327.69,10,£3276.9,20.0%,Debit Card,28/11/2025,Leeds
+O00280,Customer_280,Groceries,£262.91,9,£2366.19,5.0%,PayPal,12/12/2024,Manchester
+O00281,Customer_281,Clothing,£154.6,3,£463.8,3.0%,Debit Card,08/07/2025,Birmingham
+O00282,Customer_282,Home & Garden,£125.7,7,£879.9,8.0%,Debit Card,21/07/2025,London
+O00283,Customer_283,Groceries,£140.66,7,£984.62,24.0%,Debit Card,13/03/2025,Liverpool
+O00284,Customer_284,Clothing,£90.02,3,£270.06,23.0%,Credit Card,22/03/2025,Birmingham
+O00285,Customer_285,Toys,£71.9,3,£215.7,5.0%,Bank Transfer,11/11/2025,Manchester
+O00286,Customer_286,Groceries,£281.84,2,£563.68,7.000000000000001%,Bank Transfer,26/09/2025,Manchester
+O00287,Customer_287,Books,£266.54,4,£1066.16,9.0%,Bank Transfer,08/06/2025,Leeds
+O00288,Customer_288,Sports,£7.99,7,£55.93,15.0%,Debit Card,03/08/2025,Birmingham
+O00289,Customer_289,Electronics,£435.37,5,£2176.85,23.0%,PayPal,17/05/2025,Leeds
+O00290,Customer_290,Electronics,£130.51,9,£1174.59,11.0%,Credit Card,29/09/2025,Liverpool
+O00291,Customer_291,Beauty,£328.1,5,£1640.5,15.0%,Bank Transfer,01/10/2025,Liverpool
+O00292,Customer_292,Clothing,£75.16,9,£676.44,12.0%,Bank Transfer,14/01/2025,London
+O00293,Customer_293,Books,£455.14,3,£1365.42,2.0%,Debit Card,04/09/2025,Birmingham
+O00294,Customer_294,Clothing,£41.83,2,£83.66,3.0%,Credit Card,11/12/2024,Leeds
+O00295,Customer_295,Groceries,£233.78,3,£701.34,2.0%,PayPal,08/05/2025,Leeds
+O00296,Customer_296,Sports,£194.77,7,£1363.39,21.0%,Debit Card,15/07/2025,London
+O00297,Customer_297,Beauty,£161.31,6,£967.86,8.0%,Bank Transfer,31/05/2025,Liverpool
+O00298,Customer_298,Toys,£259.73,9,£2337.57,25.0%,PayPal,01/02/2025,Leeds
+O00299,Customer_299,Toys,£295.26,7,£2066.82,22.0%,Credit Card,27/07/2025,Manchester
+O00300,Customer_300,Beauty,£267.62,7,£1873.34,15.0%,Debit Card,17/03/2025,Manchester
+O00301,Customer_301,Electronics,£92.32,7,£646.24,16.0%,Credit Card,04/07/2025,London
+O00302,Customer_302,Home & Garden,£306.07,2,£612.14,1.0%,Credit Card,09/07/2025,London
+O00303,Customer_303,Books,£16.99,6,£101.94,13.0%,Credit Card,21/11/2025,Leeds
+O00304,Customer_304,Beauty,£494.68,5,£2473.4,9.0%,Debit Card,30/09/2025,Liverpool
+O00305,Customer_305,Home & Garden,£111.67,7,£781.69,21.0%,Bank Transfer,22/06/2025,Manchester
+O00306,Customer_306,Beauty,£184.55,6,£1107.3,14.000000000000002%,Debit Card,05/02/2025,Liverpool
+O00307,Customer_307,Beauty,£418.01,2,£836.02,15.0%,PayPal,09/09/2025,Birmingham
+O00308,Customer_308,Electronics,£11.93,8,£95.44,21.0%,Bank Transfer,12/11/2025,Manchester
+O00309,Customer_309,Toys,£345.41,4,£1381.64,20.0%,Debit Card,08/10/2025,Manchester
+O00310,Customer_310,Toys,£301.93,4,£1207.72,1.0%,Credit Card,24/08/2025,London
+O00311,Customer_311,Sports,£265.18,8,£2121.44,19.0%,PayPal,17/09/2025,Liverpool
+O00312,Customer_312,Books,£484.19,8,£3873.52,22.0%,Bank Transfer,06/07/2025,Birmingham
+O00313,Customer_313,Electronics,£371.66,7,£2601.62,7.000000000000001%,Credit Card,14/05/2025,Leeds
+O00314,Customer_314,Beauty,£113.57,5,£567.85,3.0%,PayPal,28/03/2025,Birmingham
+O00315,Customer_315,Books,£419.08,2,£838.16,17.0%,Debit Card,27/01/2025,Birmingham
+O00316,Customer_316,Toys,£460.16,1,£460.16,21.0%,Credit Card,05/09/2025,Birmingham
+O00317,Customer_317,Groceries,£325.33,1,£325.33,8.0%,Bank Transfer,03/03/2025,Leeds
+O00318,Customer_318,Sports,£408.64,6,£2451.84,7.000000000000001%,Debit Card,19/01/2025,London
+O00319,Customer_319,Electronics,£99.11,6,£594.66,12.0%,PayPal,24/10/2025,Liverpool
+O00320,Customer_320,Home & Garden,£298.77,6,£1792.62,4.0%,PayPal,29/07/2025,Liverpool
+O00321,Customer_321,Home & Garden,£215.99,4,£863.96,14.000000000000002%,Credit Card,16/08/2025,Manchester
+O00322,Customer_322,Toys,£51.07,4,£204.28,13.0%,Credit Card,11/07/2025,London
+O00323,Customer_323,Books,£373.54,2,£747.08,7.000000000000001%,Debit Card,15/01/2025,London
+O00324,Customer_324,Books,£214.34,4,£857.36,5.0%,PayPal,09/02/2025,Liverpool
+O00325,Customer_325,Electronics,£321.19,7,£2248.33,15.0%,Debit Card,10/02/2025,Birmingham
+O00326,Customer_326,Home & Garden,£406.11,9,£3654.99,22.0%,Bank Transfer,06/03/2025,Liverpool
+O00327,Customer_327,Toys,£322.92,6,£1937.52,7.000000000000001%,Debit Card,28/02/2025,Birmingham
+O00328,Customer_328,Toys,£404.15,1,£404.15,25.0%,Credit Card,05/11/2025,Leeds
+O00329,Customer_329,Beauty,£87.33,1,£87.33,8.0%,PayPal,14/09/2025,Birmingham
+O00330,Customer_330,Books,£454.69,1,£454.69,2.0%,Bank Transfer,12/12/2024,Manchester
+O00331,Customer_331,Beauty,£311.32,4,£1245.28,10.0%,PayPal,04/03/2025,Leeds
+O00332,Customer_332,Toys,£142.17,7,£995.19,11.0%,PayPal,04/07/2025,Liverpool
+O00333,Customer_333,Electronics,£32.8,9,£295.2,22.0%,Bank Transfer,31/03/2025,Birmingham
+O00334,Customer_334,Groceries,£160.02,7,£1120.14,3.0%,Credit Card,18/09/2025,Leeds
+O00335,Customer_335,Groceries,£132.25,10,£1322.5,16.0%,Debit Card,06/05/2025,Manchester
+O00336,Customer_336,Toys,£143.77,4,£575.08,3.0%,PayPal,09/04/2025,Liverpool
+O00337,Customer_337,Beauty,£402.79,5,£2013.95,21.0%,Credit Card,16/03/2025,Manchester
+O00338,Customer_338,Clothing,£205.33,5,£1026.65,24.0%,PayPal,19/10/2025,Leeds
+O00339,Customer_339,Books,£313.44,4,£1253.76,6.0%,Credit Card,10/07/2025,Manchester
+O00340,Customer_340,Groceries,£301.63,1,£301.63,19.0%,PayPal,09/02/2025,Manchester
+O00341,Customer_341,Home & Garden,£121.58,10,£1215.8,13.0%,Debit Card,25/05/2025,Leeds
+O00342,Customer_342,Clothing,£263.31,4,£1053.24,18.0%,Bank Transfer,21/01/2025,Birmingham
+O00343,Customer_343,Beauty,£477.88,1,£477.88,7.000000000000001%,Bank Transfer,28/08/2025,Birmingham
+O00344,Customer_344,Home & Garden,£286.79,4,£1147.16,22.0%,PayPal,29/08/2025,Manchester
+O00345,Customer_345,Home & Garden,£161.59,1,£161.59,3.0%,Credit Card,10/09/2025,Liverpool
+O00346,Customer_346,Home & Garden,£355.74,8,£2845.92,14.000000000000002%,Credit Card,17/01/2025,Leeds
+O00347,Customer_347,Sports,£320.07,2,£640.14,7.000000000000001%,Credit Card,07/02/2025,Manchester
+O00348,Customer_348,Beauty,£281.98,7,£1973.86,13.0%,Debit Card,01/06/2025,Manchester
+O00349,Customer_349,Groceries,£141.8,6,£850.8,21.0%,Bank Transfer,31/05/2025,Birmingham
+O00350,Customer_350,Home & Garden,£262.15,8,£2097.2,18.0%,Credit Card,14/04/2025,Birmingham
+O00351,Customer_351,Sports,£312.05,6,£1872.3,13.0%,Debit Card,26/11/2025,Liverpool
+O00352,Customer_352,Electronics,£432.41,6,£2594.46,8.0%,PayPal,08/09/2025,Birmingham
+O00353,Customer_353,Home & Garden,£152.12,4,£608.48,23.0%,Bank Transfer,06/07/2025,Leeds
+O00354,Customer_354,Home & Garden,£97.41,7,£681.87,2.0%,PayPal,12/11/2025,Leeds
+O00355,Customer_355,Home & Garden,£360.17,8,£2881.36,4.0%,Credit Card,12/03/2025,Liverpool
+O00356,Customer_356,Home & Garden,£445.2,2,£890.4,12.0%,PayPal,01/10/2025,Birmingham
+O00357,Customer_357,Toys,£499.53,4,£1998.12,19.0%,Debit Card,21/12/2024,Manchester
+O00358,Customer_358,Home & Garden,£57.11,2,£114.22,2.0%,Bank Transfer,31/08/2025,Leeds
+O00359,Customer_359,Books,£140.65,2,£281.3,19.0%,Bank Transfer,30/08/2025,Leeds
+O00360,Customer_360,Home & Garden,£104.76,2,£209.52,8.0%,Debit Card,28/11/2025,Leeds
+O00361,Customer_361,Sports,£215.57,3,£646.71,19.0%,PayPal,26/08/2025,Leeds
+O00362,Customer_362,Books,£314.82,7,£2203.74,23.0%,Credit Card,01/03/2025,Manchester
+O00363,Customer_363,Groceries,£175.3,2,£350.6,11.0%,Credit Card,14/08/2025,London
+O00364,Customer_364,Sports,£81.79,6,£490.74,24.0%,PayPal,07/10/2025,Liverpool
+O00365,Customer_365,Books,£86.23,7,£603.61,15.0%,Bank Transfer,18/06/2025,London
+O00366,Customer_366,Toys,£437.3,4,£1749.2,14.000000000000002%,Debit Card,12/10/2025,Leeds
+O00367,Customer_367,Books,£268.8,6,£1612.8,20.0%,Bank Transfer,10/02/2025,Liverpool
+O00368,Customer_368,Beauty,£111.58,5,£557.9,17.0%,Debit Card,05/11/2025,Manchester
+O00369,Customer_369,Clothing,£419.57,10,£4195.7,10.0%,Debit Card,28/01/2025,Leeds
+O00370,Customer_370,Electronics,£81.94,7,£573.58,18.0%,PayPal,12/03/2025,Birmingham
+O00371,Customer_371,Sports,£102.56,4,£410.24,13.0%,Debit Card,25/06/2025,Birmingham
+O00372,Customer_372,Electronics,£138.95,7,£972.65,17.0%,Bank Transfer,14/06/2025,Liverpool
+O00373,Customer_373,Electronics,£129.86,4,£519.44,2.0%,Bank Transfer,04/08/2025,London
+O00374,Customer_374,Toys,£339.83,9,£3058.47,15.0%,PayPal,28/08/2025,Manchester
+O00375,Customer_375,Clothing,£236.68,9,£2130.12,3.0%,Bank Transfer,16/11/2025,Liverpool
+O00376,Customer_376,Toys,£106.29,8,£850.32,8.0%,Debit Card,08/12/2024,Manchester
+O00377,Customer_377,Clothing,£99.65,8,£797.2,9.0%,PayPal,31/07/2025,Leeds
+O00378,Customer_378,Home & Garden,£462.4,4,£1849.6,7.000000000000001%,Bank Transfer,20/07/2025,Leeds
+O00379,Customer_379,Beauty,£280.59,8,£2244.72,15.0%,Bank Transfer,22/04/2025,Manchester
+O00380,Customer_380,Books,£66.22,9,£595.98,17.0%,Debit Card,04/04/2025,Manchester
+O00381,Customer_381,Books,£124.71,9,£1122.39,23.0%,PayPal,05/06/2025,Liverpool
+O00382,Customer_382,Groceries,£394.41,1,£394.41,9.0%,Debit Card,08/09/2025,London
+O00383,Customer_383,Toys,£457.14,3,£1371.42,1.0%,Debit Card,21/08/2025,Manchester
+O00384,Customer_384,Groceries,£391.71,9,£3525.39,21.0%,Bank Transfer,26/04/2025,London
+O00385,Customer_385,Books,£295.71,3,£887.13,8.0%,PayPal,07/05/2025,Manchester
+O00386,Customer_386,Electronics,£493.79,1,£493.79,19.0%,PayPal,16/02/2025,London
+O00387,Customer_387,Groceries,£408.17,10,£4081.7,16.0%,Credit Card,28/01/2025,Manchester
+O00388,Customer_388,Books,£149.5,2,£299.0,3.0%,Debit Card,20/02/2025,Liverpool
+O00389,Customer_389,Groceries,£120.92,9,£1088.28,6.0%,Bank Transfer,26/06/2025,Liverpool
+O00390,Customer_390,Home & Garden,£138.02,7,£966.14,6.0%,PayPal,20/11/2025,Liverpool
+O00391,Customer_391,Sports,£110.48,7,£773.36,12.0%,Credit Card,18/10/2025,Liverpool
+O00392,Customer_392,Electronics,£432.36,10,£4323.6,23.0%,Bank Transfer,27/11/2025,Liverpool
+O00393,Customer_393,Clothing,£75.36,6,£452.16,14.000000000000002%,PayPal,31/08/2025,London
+O00394,Customer_394,Electronics,£479.51,5,£2397.55,2.0%,PayPal,17/05/2025,Leeds
+O00395,Customer_395,Books,£99.71,5,£498.55,19.0%,PayPal,16/09/2025,Liverpool
+O00396,Customer_396,Beauty,£174.25,8,£1394.0,24.0%,Credit Card,22/08/2025,Manchester
+O00397,Customer_397,Groceries,£347.55,2,£695.1,10.0%,Credit Card,08/12/2024,Leeds
+O00398,Customer_398,Sports,£316.06,4,£1264.24,13.0%,Credit Card,27/11/2025,Birmingham
+O00399,Customer_399,Home & Garden,£275.15,3,£825.45,11.0%,Bank Transfer,05/09/2025,London
+O00400,Customer_400,Toys,£478.6,3,£1435.8,1.0%,PayPal,30/04/2025,Liverpool
+O00401,Customer_401,Books,£160.81,5,£804.05,14.000000000000002%,Credit Card,20/06/2025,Liverpool
+O00402,Customer_402,Toys,£207.1,8,£1656.8,3.0%,PayPal,11/05/2025,London
+O00403,Customer_403,Home & Garden,£229.9,7,£1609.3,2.0%,Debit Card,24/07/2025,Liverpool
+O00404,Customer_404,Electronics,£162.08,9,£1458.72,23.0%,Bank Transfer,11/07/2025,London
+O00405,Customer_405,Toys,£277.36,5,£1386.8,16.0%,Debit Card,31/05/2025,Birmingham
+O00406,Customer_406,Sports,£477.99,8,£3823.92,4.0%,Debit Card,27/06/2025,Birmingham
+O00407,Customer_407,Electronics,£332.9,9,£2996.1,19.0%,Bank Transfer,08/12/2024,Leeds
+O00408,Customer_408,Home & Garden,£50.4,2,£100.8,10.0%,Bank Transfer,02/05/2025,Manchester
+O00409,Customer_409,Toys,£79.13,4,£316.52,11.0%,Credit Card,15/09/2025,London
+O00410,Customer_410,Sports,£407.01,10,£4070.1,25.0%,Debit Card,31/05/2025,London
+O00411,Customer_411,Electronics,£205.42,7,£1437.94,4.0%,Credit Card,27/09/2025,Birmingham
+O00412,Customer_412,Toys,£27.37,2,£54.74,21.0%,PayPal,13/02/2025,Liverpool
+O00413,Customer_413,Electronics,£73.72,2,£147.44,23.0%,Credit Card,19/02/2025,Liverpool
+O00414,Customer_414,Clothing,£317.65,7,£2223.55,24.0%,Credit Card,10/10/2025,London
+O00415,Customer_415,Beauty,£457.58,8,£3660.64,15.0%,Debit Card,14/08/2025,Birmingham
+O00416,Customer_416,Books,£415.13,1,£415.13,7.000000000000001%,Bank Transfer,26/09/2025,Manchester
+O00417,Customer_417,Beauty,£217.75,7,£1524.25,15.0%,Bank Transfer,25/09/2025,Birmingham
+O00418,Customer_418,Groceries,£157.36,1,£157.36,10.0%,Bank Transfer,27/12/2024,Manchester
+O00419,Customer_419,Clothing,£432.76,5,£2163.8,22.0%,Debit Card,30/11/2025,Birmingham
+O00420,Customer_420,Sports,£212.25,9,£1910.25,0.0%,PayPal,24/02/2025,Manchester
+O00421,Customer_421,Books,£207.91,3,£623.73,19.0%,PayPal,17/04/2025,Leeds
+O00422,Customer_422,Books,£487.3,3,£1461.9,4.0%,PayPal,07/04/2025,London
+O00423,Customer_423,Groceries,£198.49,9,£1786.41,0.0%,Bank Transfer,07/08/2025,Manchester
+O00424,Customer_424,Groceries,£463.32,3,£1389.96,14.000000000000002%,Debit Card,15/04/2025,Manchester
+O00425,Customer_425,Groceries,£349.45,6,£2096.7,7.000000000000001%,Debit Card,18/09/2025,Manchester
+O00426,Customer_426,Books,£409.21,7,£2864.47,22.0%,Debit Card,06/03/2025,Birmingham
+O00427,Customer_427,Beauty,£352.57,5,£1762.85,13.0%,Credit Card,23/09/2025,Birmingham
+O00428,Customer_428,Toys,£136.35,6,£818.1,7.000000000000001%,Bank Transfer,21/12/2024,Leeds
+O00429,Customer_429,Electronics,£397.52,7,£2782.64,15.0%,Credit Card,20/07/2025,Liverpool
+O00430,Customer_430,Toys,£266.31,4,£1065.24,23.0%,Bank Transfer,06/10/2025,Liverpool
+O00431,Customer_431,Groceries,£87.51,6,£525.06,16.0%,PayPal,16/12/2024,Birmingham
+O00432,Customer_432,Books,£437.34,9,£3936.06,14.000000000000002%,Bank Transfer,05/02/2025,Manchester
+O00433,Customer_433,Electronics,£35.98,1,£35.98,22.0%,Debit Card,13/02/2025,Birmingham
+O00434,Customer_434,Electronics,£130.05,3,£390.15,20.0%,Debit Card,29/11/2025,London
+O00435,Customer_435,Clothing,£61.35,8,£490.8,14.000000000000002%,Debit Card,23/12/2024,Liverpool
+O00436,Customer_436,Toys,£149.03,6,£894.18,12.0%,Credit Card,08/01/2025,Birmingham
+O00437,Customer_437,Home & Garden,£163.9,10,£1639.0,19.0%,Debit Card,13/12/2024,Birmingham
+O00438,Customer_438,Toys,£306.48,3,£919.44,8.0%,Bank Transfer,20/09/2025,Liverpool
+O00439,Customer_439,Sports,£104.83,1,£104.83,1.0%,PayPal,07/06/2025,London
+O00440,Customer_440,Electronics,£495.13,4,£1980.52,5.0%,PayPal,11/08/2025,Birmingham
+O00441,Customer_441,Groceries,£323.54,4,£1294.16,12.0%,Debit Card,29/10/2025,London
+O00442,Customer_442,Toys,£186.03,10,£1860.3,3.0%,PayPal,29/04/2025,Manchester
+O00443,Customer_443,Home & Garden,£329.95,1,£329.95,12.0%,Bank Transfer,01/09/2025,Liverpool
+O00444,Customer_444,Beauty,£85.23,7,£596.61,14.000000000000002%,Credit Card,15/01/2025,Liverpool
+O00445,Customer_445,Beauty,£270.64,8,£2165.12,25.0%,Bank Transfer,21/09/2025,Liverpool
+O00446,Customer_446,Books,£145.56,3,£436.68,14.000000000000002%,PayPal,19/11/2025,Birmingham
+O00447,Customer_447,Beauty,£35.04,1,£35.04,4.0%,Debit Card,25/08/2025,London
+O00448,Customer_448,Clothing,£345.12,6,£2070.72,12.0%,Bank Transfer,15/07/2025,Leeds
+O00449,Customer_449,Home & Garden,£13.79,8,£110.32,5.0%,Bank Transfer,17/03/2025,Birmingham
+O00450,Customer_450,Sports,£478.94,7,£3352.58,25.0%,Credit Card,15/06/2025,Manchester
+O00451,Customer_451,Groceries,£78.84,10,£788.4,10.0%,Bank Transfer,28/12/2024,Birmingham
+O00452,Customer_452,Beauty,£52.87,5,£264.35,23.0%,Bank Transfer,14/03/2025,Liverpool
+O00453,Customer_453,Home & Garden,£240.3,2,£480.6,25.0%,Bank Transfer,20/05/2025,London
+O00454,Customer_454,Clothing,£239.76,2,£479.52,20.0%,Credit Card,14/01/2025,Birmingham
+O00455,Customer_455,Books,£323.66,9,£2912.94,2.0%,PayPal,03/04/2025,Leeds
+O00456,Customer_456,Clothing,£320.35,2,£640.7,15.0%,PayPal,24/02/2025,Leeds
+O00457,Customer_457,Books,£283.1,9,£2547.9,5.0%,Debit Card,19/12/2024,Leeds
+O00458,Customer_458,Clothing,£115.01,9,£1035.09,4.0%,PayPal,04/09/2025,Liverpool
+O00459,Customer_459,Clothing,£84.93,1,£84.93,9.0%,Bank Transfer,27/01/2025,Manchester
+O00460,Customer_460,Toys,£163.09,10,£1630.9,6.0%,PayPal,20/02/2025,Liverpool
+O00461,Customer_461,Beauty,£369.53,3,£1108.59,23.0%,Bank Transfer,16/10/2025,Manchester
+O00462,Customer_462,Beauty,£452.85,1,£452.85,20.0%,Credit Card,16/06/2025,Birmingham
+O00463,Customer_463,Sports,£355.0,4,£1420.0,19.0%,Debit Card,27/11/2025,Birmingham
+O00464,Customer_464,Home & Garden,£269.95,9,£2429.55,21.0%,Debit Card,06/08/2025,London
+O00465,Customer_465,Sports,£116.85,6,£701.1,18.0%,Bank Transfer,06/10/2025,Birmingham
+O00466,Customer_466,Beauty,£82.69,1,£82.69,3.0%,PayPal,01/10/2025,Birmingham
+O00467,Customer_467,Sports,£139.08,1,£139.08,7.000000000000001%,Bank Transfer,04/11/2025,Birmingham
+O00468,Customer_468,Sports,£441.31,3,£1323.93,3.0%,Bank Transfer,31/07/2025,Birmingham
+O00469,Customer_469,Books,£278.72,2,£557.44,21.0%,PayPal,25/01/2025,London
+O00470,Customer_470,Beauty,£328.38,7,£2298.66,16.0%,PayPal,03/03/2025,Birmingham
+O00471,Customer_471,Toys,£28.23,9,£254.07,2.0%,Bank Transfer,10/06/2025,Leeds
+O00472,Customer_472,Clothing,£387.97,6,£2327.82,17.0%,Bank Transfer,08/10/2025,Liverpool
+O00473,Customer_473,Electronics,£390.3,5,£1951.5,13.0%,Debit Card,05/09/2025,London
+O00474,Customer_474,Beauty,£292.68,3,£878.04,2.0%,PayPal,21/08/2025,Liverpool
+O00475,Customer_475,Clothing,£489.77,4,£1959.08,5.0%,Debit Card,28/01/2025,Liverpool
+O00476,Customer_476,Sports,£379.46,9,£3415.14,5.0%,Debit Card,26/07/2025,Manchester
+O00477,Customer_477,Clothing,£248.38,2,£496.76,22.0%,Debit Card,14/09/2025,London
+O00478,Customer_478,Groceries,£53.31,9,£479.79,14.000000000000002%,Debit Card,20/06/2025,Manchester
+O00479,Customer_479,Toys,£44.06,10,£440.6,18.0%,Debit Card,03/09/2025,Manchester
+O00480,Customer_480,Books,£202.71,4,£810.84,20.0%,Credit Card,09/07/2025,Leeds
+O00481,Customer_481,Groceries,£305.69,9,£2751.21,10.0%,Debit Card,16/08/2025,Manchester
+O00482,Customer_482,Home & Garden,£434.02,6,£2604.12,5.0%,Credit Card,18/07/2025,Leeds
+O00483,Customer_483,Home & Garden,£132.37,1,£132.37,16.0%,Bank Transfer,20/03/2025,Birmingham
+O00484,Customer_484,Clothing,£438.47,7,£3069.29,18.0%,Bank Transfer,22/03/2025,Leeds
+O00485,Customer_485,Electronics,£213.02,6,£1278.12,12.0%,Bank Transfer,08/04/2025,Liverpool
+O00486,Customer_486,Home & Garden,£493.31,10,£4933.1,23.0%,Debit Card,30/06/2025,Liverpool
+O00487,Customer_487,Clothing,£277.95,10,£2779.5,6.0%,Debit Card,01/02/2025,Liverpool
+O00488,Customer_488,Books,£342.04,8,£2736.32,20.0%,Debit Card,04/03/2025,London
+O00489,Customer_489,Toys,£436.14,4,£1744.56,8.0%,PayPal,27/03/2025,Manchester
+O00490,Customer_490,Clothing,£67.46,4,£269.84,14.000000000000002%,Bank Transfer,24/08/2025,Manchester
+O00491,Customer_491,Toys,£362.28,5,£1811.4,7.000000000000001%,Bank Transfer,12/11/2025,Manchester
+O00492,Customer_492,Toys,£475.16,3,£1425.48,2.0%,PayPal,05/10/2025,Birmingham
+O00493,Customer_493,Sports,£197.04,3,£591.12,9.0%,Credit Card,10/06/2025,Birmingham
+O00494,Customer_494,Books,£387.41,6,£2324.46,2.0%,PayPal,14/07/2025,Liverpool
+O00495,Customer_495,Electronics,£136.38,5,£681.9,14.000000000000002%,Bank Transfer,25/06/2025,Birmingham
+O00496,Customer_496,Beauty,£286.16,6,£1716.96,12.0%,PayPal,17/04/2025,Leeds
+O00497,Customer_497,Home & Garden,£431.15,6,£2586.9,14.000000000000002%,Debit Card,11/03/2025,Leeds
+O00498,Customer_498,Sports,£123.98,3,£371.94,2.0%,Credit Card,11/08/2025,Leeds
+O00499,Customer_499,Clothing,£270.15,4,£1080.6,15.0%,Bank Transfer,29/03/2025,Liverpool
+O00500,Customer_500,Beauty,£251.21,2,£502.42,7.000000000000001%,Bank Transfer,17/12/2024,Birmingham
+O00501,Customer_501,Home & Garden,£174.41,2,£348.82,23.0%,PayPal,10/04/2025,London
+O00502,Customer_502,Sports,£226.86,9,£2041.74,8.0%,Debit Card,15/05/2025,Liverpool
+O00503,Customer_503,Toys,£449.39,2,£898.78,16.0%,PayPal,07/09/2025,London
+O00504,Customer_504,Electronics,£61.55,3,£184.65,12.0%,Bank Transfer,26/02/2025,Liverpool
+O00505,Customer_505,Beauty,£470.12,2,£940.24,23.0%,Credit Card,01/02/2025,Liverpool
+O00506,Customer_506,Home & Garden,£490.27,2,£980.54,16.0%,PayPal,23/07/2025,Liverpool
+O00507,Customer_507,Beauty,£478.76,5,£2393.8,18.0%,PayPal,09/06/2025,Manchester
+O00508,Customer_508,Beauty,£144.82,8,£1158.56,9.0%,Bank Transfer,02/05/2025,Leeds
+O00509,Customer_509,Electronics,£324.7,9,£2922.3,11.0%,Debit Card,22/03/2025,Leeds
+O00510,Customer_510,Beauty,£305.88,2,£611.76,15.0%,Bank Transfer,31/05/2025,London
+O00511,Customer_511,Beauty,£291.88,5,£1459.4,4.0%,Bank Transfer,10/07/2025,Birmingham
+O00512,Customer_512,Toys,£199.03,1,£199.03,7.000000000000001%,Debit Card,21/11/2025,Liverpool
+O00513,Customer_513,Electronics,£344.54,3,£1033.62,6.0%,Credit Card,27/05/2025,Manchester
+O00514,Customer_514,Home & Garden,£210.64,3,£631.92,19.0%,Bank Transfer,04/05/2025,Manchester
+O00515,Customer_515,Electronics,£427.63,1,£427.63,20.0%,Credit Card,05/09/2025,London
+O00516,Customer_516,Groceries,£189.55,10,£1895.5,9.0%,Bank Transfer,11/08/2025,Leeds
+O00517,Customer_517,Groceries,£121.52,5,£607.6,17.0%,PayPal,30/03/2025,Birmingham
+O00518,Customer_518,Groceries,£275.18,3,£825.54,19.0%,Credit Card,08/12/2024,Birmingham
+O00519,Customer_519,Beauty,£376.09,1,£376.09,11.0%,PayPal,15/08/2025,Birmingham
+O00520,Customer_520,Clothing,£97.06,4,£388.24,7.000000000000001%,PayPal,26/08/2025,Liverpool
+O00521,Customer_521,Home & Garden,£455.57,2,£911.14,18.0%,Credit Card,23/01/2025,Liverpool
+O00522,Customer_522,Groceries,£462.56,5,£2312.8,10.0%,Credit Card,03/09/2025,Birmingham
+O00523,Customer_523,Clothing,£494.94,4,£1979.76,25.0%,Credit Card,29/08/2025,London
+O00524,Customer_524,Home & Garden,£258.49,10,£2584.9,2.0%,Bank Transfer,29/12/2024,Leeds
+O00525,Customer_525,Sports,£104.41,5,£522.05,20.0%,Bank Transfer,03/08/2025,Birmingham
+O00526,Customer_526,Electronics,£42.93,1,£42.93,1.0%,Debit Card,06/05/2025,London
+O00527,Customer_527,Books,£282.48,9,£2542.32,4.0%,Debit Card,08/05/2025,Leeds
+O00528,Customer_528,Groceries,£203.04,6,£1218.24,19.0%,Credit Card,08/09/2025,Leeds
+O00529,Customer_529,Clothing,£373.47,8,£2987.76,23.0%,Debit Card,17/02/2025,Leeds
+O00530,Customer_530,Books,£328.24,1,£328.24,12.0%,PayPal,10/08/2025,Birmingham
+O00531,Customer_531,Home & Garden,£340.34,7,£2382.38,13.0%,Bank Transfer,24/06/2025,Manchester
+O00532,Customer_532,Sports,£327.33,5,£1636.65,14.000000000000002%,Bank Transfer,09/03/2025,Leeds
+O00533,Customer_533,Electronics,£481.49,10,£4814.9,7.000000000000001%,Bank Transfer,15/04/2025,Liverpool
+O00534,Customer_534,Groceries,£216.24,2,£432.48,14.000000000000002%,Debit Card,06/03/2025,Leeds
+O00535,Customer_535,Groceries,£316.96,6,£1901.76,24.0%,Bank Transfer,19/12/2024,London
+O00536,Customer_536,Groceries,£131.32,8,£1050.56,21.0%,Bank Transfer,15/12/2024,Birmingham
+O00537,Customer_537,Groceries,£320.24,10,£3202.4,12.0%,Credit Card,30/11/2025,Liverpool
+O00538,Customer_538,Books,£468.45,3,£1405.35,6.0%,PayPal,07/11/2025,Manchester
+O00539,Customer_539,Sports,£335.13,4,£1340.52,23.0%,PayPal,12/09/2025,Birmingham
+O00540,Customer_540,Beauty,£184.53,6,£1107.18,12.0%,Credit Card,04/09/2025,Leeds
+O00541,Customer_541,Sports,£476.77,9,£4290.93,17.0%,PayPal,31/07/2025,Manchester
+O00542,Customer_542,Home & Garden,£441.5,5,£2207.5,10.0%,PayPal,06/12/2024,Liverpool
+O00543,Customer_543,Clothing,£130.4,8,£1043.2,20.0%,Debit Card,30/07/2025,Liverpool
+O00544,Customer_544,Toys,£313.73,5,£1568.65,5.0%,PayPal,05/01/2025,Leeds
+O00545,Customer_545,Sports,£357.73,3,£1073.19,5.0%,Debit Card,27/08/2025,Birmingham
+O00546,Customer_546,Groceries,£434.66,6,£2607.96,23.0%,Bank Transfer,22/03/2025,Liverpool
+O00547,Customer_547,Groceries,£121.73,7,£852.11,3.0%,Credit Card,17/11/2025,Birmingham
+O00548,Customer_548,Sports,£359.08,3,£1077.24,13.0%,Bank Transfer,01/02/2025,Liverpool
+O00549,Customer_549,Beauty,£153.08,9,£1377.72,13.0%,Bank Transfer,26/07/2025,Liverpool
+O00550,Customer_550,Groceries,£361.29,2,£722.58,21.0%,Bank Transfer,10/04/2025,Leeds
+O00551,Customer_551,Groceries,£50.39,10,£503.9,19.0%,Credit Card,25/11/2025,Manchester
+O00552,Customer_552,Home & Garden,£328.65,9,£2957.85,13.0%,PayPal,22/05/2025,London
+O00553,Customer_553,Books,£142.09,9,£1278.81,4.0%,Credit Card,12/04/2025,Leeds
+O00554,Customer_554,Books,£224.85,1,£224.85,9.0%,Debit Card,18/05/2025,Liverpool
+O00555,Customer_555,Books,£444.99,5,£2224.95,23.0%,Credit Card,27/07/2025,Liverpool
+O00556,Customer_556,Groceries,£408.79,10,£4087.9,17.0%,Bank Transfer,01/12/2025,Liverpool
+O00557,Customer_557,Electronics,£449.94,3,£1349.82,19.0%,Debit Card,31/10/2025,Birmingham
+O00558,Customer_558,Books,£81.55,7,£570.85,19.0%,Bank Transfer,18/12/2024,Liverpool
+O00559,Customer_559,Electronics,£210.64,6,£1263.84,21.0%,Debit Card,19/08/2025,London
+O00560,Customer_560,Toys,£220.24,9,£1982.16,9.0%,Credit Card,05/12/2024,Leeds
+O00561,Customer_561,Sports,£401.51,7,£2810.57,23.0%,Credit Card,01/09/2025,Liverpool
+O00562,Customer_562,Books,£16.14,9,£145.26,17.0%,Debit Card,03/08/2025,London
+O00563,Customer_563,Toys,£97.34,4,£389.36,9.0%,PayPal,22/04/2025,Manchester
+O00564,Customer_564,Books,£353.57,7,£2474.99,16.0%,Bank Transfer,13/05/2025,Liverpool
+O00565,Customer_565,Toys,£295.7,2,£591.4,15.0%,Debit Card,17/10/2025,Leeds
+O00566,Customer_566,Beauty,£472.31,3,£1416.93,8.0%,Credit Card,18/08/2025,Birmingham
+O00567,Customer_567,Beauty,£38.51,8,£308.08,10.0%,PayPal,29/01/2025,Birmingham
+O00568,Customer_568,Toys,£426.46,6,£2558.76,4.0%,PayPal,17/09/2025,Birmingham
+O00569,Customer_569,Beauty,£144.07,3,£432.21,18.0%,PayPal,23/01/2025,Birmingham
+O00570,Customer_570,Home & Garden,£256.17,2,£512.34,14.000000000000002%,Credit Card,23/11/2025,Liverpool
+O00571,Customer_571,Beauty,£111.67,10,£1116.7,19.0%,PayPal,20/09/2025,London
+O00572,Customer_572,Clothing,£179.91,5,£899.55,9.0%,Debit Card,08/07/2025,London
+O00573,Customer_573,Beauty,£319.95,7,£2239.65,22.0%,Debit Card,15/10/2025,Liverpool
+O00574,Customer_574,Books,£328.49,7,£2299.43,9.0%,Bank Transfer,17/03/2025,London
+O00575,Customer_575,Books,£42.86,6,£257.16,6.0%,Debit Card,09/09/2025,Birmingham
+O00576,Customer_576,Groceries,£174.44,5,£872.2,5.0%,Debit Card,29/11/2025,Leeds
+O00577,Customer_577,Beauty,£275.99,10,£2759.9,13.0%,Debit Card,16/06/2025,Leeds
+O00578,Customer_578,Clothing,£260.27,6,£1561.62,14.000000000000002%,PayPal,11/10/2025,London
+O00579,Customer_579,Toys,£87.27,10,£872.7,17.0%,Debit Card,17/10/2025,Birmingham
+O00580,Customer_580,Clothing,£363.47,1,£363.47,9.0%,Bank Transfer,22/04/2025,Leeds
+O00581,Customer_581,Beauty,£244.19,6,£1465.14,17.0%,PayPal,04/11/2025,Manchester
+O00582,Customer_582,Electronics,£43.11,4,£172.44,18.0%,Debit Card,07/03/2025,Birmingham
+O00583,Customer_583,Beauty,£234.01,3,£702.03,13.0%,Bank Transfer,11/02/2025,Birmingham
+O00584,Customer_584,Sports,£253.59,2,£507.18,3.0%,Bank Transfer,16/11/2025,Manchester
+O00585,Customer_585,Groceries,£292.4,5,£1462.0,19.0%,Credit Card,10/12/2024,Liverpool
+O00586,Customer_586,Electronics,£231.15,7,£1618.05,11.0%,Credit Card,27/07/2025,Leeds
+O00587,Customer_587,Books,£245.46,3,£736.38,3.0%,Bank Transfer,03/11/2025,Manchester
+O00588,Customer_588,Books,£14.51,4,£58.04,24.0%,Debit Card,15/03/2025,London
+O00589,Customer_589,Groceries,£142.58,7,£998.06,18.0%,PayPal,19/01/2025,Birmingham
+O00590,Customer_590,Books,£80.41,5,£402.05,1.0%,Bank Transfer,13/09/2025,Liverpool
+O00591,Customer_591,Beauty,£235.11,1,£235.11,16.0%,Debit Card,30/05/2025,Liverpool
+O00592,Customer_592,Books,£109.56,3,£328.68,24.0%,Credit Card,19/03/2025,Liverpool
+O00593,Customer_593,Clothing,£40.76,7,£285.32,9.0%,Bank Transfer,04/07/2025,Birmingham
+O00594,Customer_594,Books,£240.3,3,£720.9,15.0%,Bank Transfer,17/02/2025,London
+O00595,Customer_595,Clothing,£410.82,4,£1643.28,10.0%,Debit Card,17/08/2025,Liverpool
+O00596,Customer_596,Groceries,£344.45,5,£1722.25,23.0%,PayPal,25/09/2025,Birmingham
+O00597,Customer_597,Books,£346.22,10,£3462.2,18.0%,Credit Card,17/04/2025,Leeds
+O00598,Customer_598,Toys,£176.89,4,£707.56,25.0%,Credit Card,07/01/2025,London
+O00599,Customer_599,Sports,£402.61,4,£1610.44,7.000000000000001%,Credit Card,07/01/2025,Liverpool
+O00600,Customer_600,Toys,£104.75,9,£942.75,14.000000000000002%,Debit Card,30/11/2025,Liverpool
+O00601,Customer_601,Sports,£392.18,1,£392.18,17.0%,Bank Transfer,27/03/2025,London
+O00602,Customer_602,Groceries,£327.22,6,£1963.32,1.0%,Credit Card,30/08/2025,Manchester
+O00603,Customer_603,Electronics,£352.71,1,£352.71,11.0%,Bank Transfer,13/02/2025,Liverpool
+O00604,Customer_604,Groceries,£259.92,7,£1819.44,10.0%,Bank Transfer,17/10/2025,Birmingham
+O00605,Customer_605,Home & Garden,£85.95,2,£171.9,24.0%,PayPal,16/07/2025,London
+O00606,Customer_606,Sports,£258.47,3,£775.41,19.0%,Debit Card,15/02/2025,London
+O00607,Customer_607,Beauty,£407.53,5,£2037.65,16.0%,PayPal,13/09/2025,Leeds
+O00608,Customer_608,Sports,£164.55,9,£1480.95,3.0%,Debit Card,04/11/2025,Liverpool
+O00609,Customer_609,Toys,£219.5,6,£1317.0,20.0%,PayPal,26/02/2025,Liverpool
+O00610,Customer_610,Beauty,£438.15,6,£2628.9,19.0%,Credit Card,23/02/2025,Leeds
+O00611,Customer_611,Books,£489.31,9,£4403.79,6.0%,Bank Transfer,25/05/2025,London
+O00612,Customer_612,Clothing,£435.0,9,£3915.0,16.0%,Bank Transfer,08/04/2025,Birmingham
+O00613,Customer_613,Toys,£265.35,1,£265.35,1.0%,PayPal,18/11/2025,Leeds
+O00614,Customer_614,Sports,£75.71,6,£454.26,18.0%,Debit Card,15/09/2025,London
+O00615,Customer_615,Clothing,£333.21,6,£1999.26,2.0%,Debit Card,15/06/2025,Liverpool
+O00616,Customer_616,Beauty,£344.25,5,£1721.25,18.0%,PayPal,10/09/2025,Birmingham
+O00617,Customer_617,Toys,£43.2,3,£129.6,20.0%,PayPal,15/02/2025,Liverpool
+O00618,Customer_618,Sports,£451.84,7,£3162.88,10.0%,Bank Transfer,21/10/2025,London
+O00619,Customer_619,Sports,£404.3,9,£3638.7,20.0%,Credit Card,10/10/2025,Leeds
+O00620,Customer_620,Sports,£190.45,1,£190.45,17.0%,Bank Transfer,26/08/2025,Manchester
+O00621,Customer_621,Home & Garden,£123.02,10,£1230.2,10.0%,Credit Card,10/07/2025,Leeds
+O00622,Customer_622,Books,£373.33,10,£3733.3,4.0%,Credit Card,24/11/2025,Leeds
+O00623,Customer_623,Toys,£291.46,3,£874.38,10.0%,Credit Card,28/11/2025,Leeds
+O00624,Customer_624,Books,£186.94,5,£934.7,0.0%,Debit Card,31/08/2025,Birmingham
+O00625,Customer_625,Groceries,£422.5,7,£2957.5,12.0%,Credit Card,30/08/2025,London
+O00626,Customer_626,Clothing,£360.78,7,£2525.46,13.0%,Debit Card,24/04/2025,Manchester
+O00627,Customer_627,Beauty,£128.67,2,£257.34,1.0%,Debit Card,01/05/2025,London
+O00628,Customer_628,Home & Garden,£150.36,8,£1202.88,14.000000000000002%,Credit Card,24/07/2025,Birmingham
+O00629,Customer_629,Electronics,£269.09,1,£269.09,23.0%,PayPal,20/03/2025,Leeds
+O00630,Customer_630,Beauty,£370.53,8,£2964.24,1.0%,Bank Transfer,14/07/2025,Leeds
+O00631,Customer_631,Beauty,£154.98,7,£1084.86,1.0%,Bank Transfer,16/03/2025,Leeds
+O00632,Customer_632,Groceries,£203.89,7,£1427.23,17.0%,Credit Card,13/10/2025,Birmingham
+O00633,Customer_633,Home & Garden,£338.11,5,£1690.55,2.0%,Credit Card,20/08/2025,Birmingham
+O00634,Customer_634,Clothing,£28.2,2,£56.4,2.0%,Credit Card,29/01/2025,Manchester
+O00635,Customer_635,Beauty,£321.48,2,£642.96,2.0%,Credit Card,15/09/2025,Liverpool
+O00636,Customer_636,Clothing,£402.36,4,£1609.44,18.0%,Bank Transfer,10/10/2025,Manchester
+O00637,Customer_637,Books,£465.3,5,£2326.5,8.0%,Bank Transfer,06/04/2025,Birmingham
+O00638,Customer_638,Toys,£438.67,8,£3509.36,12.0%,Debit Card,09/03/2025,London
+O00639,Customer_639,Beauty,£331.27,9,£2981.43,25.0%,Debit Card,12/12/2024,London
+O00640,Customer_640,Groceries,£338.2,7,£2367.4,2.0%,PayPal,30/12/2024,Liverpool
+O00641,Customer_641,Beauty,£97.95,10,£979.5,16.0%,Debit Card,15/07/2025,Birmingham
+O00642,Customer_642,Toys,£455.18,9,£4096.62,22.0%,Debit Card,21/07/2025,Liverpool
+O00643,Customer_643,Groceries,£413.86,8,£3310.88,8.0%,PayPal,29/10/2025,Manchester
+O00644,Customer_644,Groceries,£87.38,6,£524.28,2.0%,PayPal,02/04/2025,Liverpool
+O00645,Customer_645,Groceries,£237.23,3,£711.69,24.0%,Debit Card,10/07/2025,Leeds
+O00646,Customer_646,Home & Garden,£120.05,9,£1080.45,7.000000000000001%,PayPal,18/03/2025,Manchester
+O00647,Customer_647,Clothing,£489.63,9,£4406.67,8.0%,Debit Card,19/03/2025,Birmingham
+O00648,Customer_648,Sports,£82.92,4,£331.68,3.0%,Credit Card,05/01/2025,Leeds
+O00649,Customer_649,Beauty,£496.13,6,£2976.78,13.0%,Credit Card,29/01/2025,Birmingham
+O00650,Customer_650,Books,£437.69,2,£875.38,5.0%,PayPal,11/03/2025,Manchester
+O00651,Customer_651,Clothing,£95.3,9,£857.7,16.0%,Bank Transfer,20/09/2025,Liverpool
+O00652,Customer_652,Books,£174.34,6,£1046.04,0.0%,Credit Card,22/05/2025,Birmingham
+O00653,Customer_653,Sports,£283.91,4,£1135.64,15.0%,Credit Card,01/06/2025,Manchester
+O00654,Customer_654,Beauty,£235.66,5,£1178.3,2.0%,PayPal,05/08/2025,Leeds
+O00655,Customer_655,Groceries,£417.25,1,£417.25,16.0%,Debit Card,18/07/2025,Birmingham
+O00656,Customer_656,Groceries,£21.71,6,£130.26,14.000000000000002%,Credit Card,27/09/2025,London
+O00657,Customer_657,Books,£307.12,2,£614.24,1.0%,Debit Card,18/07/2025,Birmingham
+O00658,Customer_658,Electronics,£383.88,1,£383.88,23.0%,Credit Card,11/12/2024,Manchester
+O00659,Customer_659,Sports,£96.39,8,£771.12,23.0%,Credit Card,12/07/2025,Birmingham
+O00660,Customer_660,Books,£169.7,6,£1018.2,22.0%,Bank Transfer,10/02/2025,Liverpool
+O00661,Customer_661,Home & Garden,£256.51,9,£2308.59,11.0%,Credit Card,30/04/2025,Leeds
+O00662,Customer_662,Clothing,£111.67,6,£670.02,12.0%,Credit Card,01/07/2025,Leeds
+O00663,Customer_663,Electronics,£334.45,5,£1672.25,9.0%,Credit Card,10/06/2025,Leeds
+O00664,Customer_664,Beauty,£198.52,2,£397.04,15.0%,PayPal,15/09/2025,Birmingham
+O00665,Customer_665,Toys,£436.55,6,£2619.3,19.0%,Bank Transfer,05/01/2025,Manchester
+O00666,Customer_666,Clothing,£115.78,9,£1042.02,24.0%,PayPal,12/02/2025,Birmingham
+O00667,Customer_667,Clothing,£19.03,5,£95.15,3.0%,Debit Card,27/05/2025,Birmingham
+O00668,Customer_668,Books,£277.79,10,£2777.9,22.0%,PayPal,15/10/2025,Birmingham
+O00669,Customer_669,Electronics,£413.77,6,£2482.62,10.0%,Credit Card,18/10/2025,London
+O00670,Customer_670,Groceries,£265.38,2,£530.76,4.0%,Debit Card,21/09/2025,London
+O00671,Customer_671,Clothing,£441.12,9,£3970.08,14.000000000000002%,Credit Card,05/09/2025,Manchester
+O00672,Customer_672,Groceries,£412.7,10,£4127.0,19.0%,Debit Card,02/12/2024,Birmingham
+O00673,Customer_673,Clothing,£444.68,1,£444.68,1.0%,Credit Card,18/04/2025,Manchester
+O00674,Customer_674,Home & Garden,£30.18,10,£301.8,14.000000000000002%,Debit Card,13/08/2025,Birmingham
+O00675,Customer_675,Home & Garden,£190.31,1,£190.31,22.0%,Bank Transfer,21/02/2025,Birmingham
+O00676,Customer_676,Home & Garden,£242.08,7,£1694.56,12.0%,PayPal,16/08/2025,Leeds
+O00677,Customer_677,Groceries,£96.52,4,£386.08,15.0%,PayPal,20/12/2024,Liverpool
+O00678,Customer_678,Toys,£401.16,9,£3610.44,23.0%,Credit Card,16/09/2025,Leeds
+O00679,Customer_679,Clothing,£382.09,9,£3438.81,19.0%,Bank Transfer,01/03/2025,Birmingham
+O00680,Customer_680,Beauty,£237.83,9,£2140.47,10.0%,Debit Card,07/06/2025,Leeds
+O00681,Customer_681,Electronics,£233.13,7,£1631.91,0.0%,Bank Transfer,08/02/2025,Liverpool
+O00682,Customer_682,Sports,£358.26,4,£1433.04,20.0%,Bank Transfer,16/11/2025,Manchester
+O00683,Customer_683,Toys,£64.76,10,£647.6,2.0%,Bank Transfer,13/06/2025,Manchester
+O00684,Customer_684,Home & Garden,£388.29,10,£3882.9,7.000000000000001%,Credit Card,24/02/2025,London
+O00685,Customer_685,Groceries,£212.9,7,£1490.3,5.0%,Bank Transfer,16/11/2025,Manchester
+O00686,Customer_686,Home & Garden,£270.16,9,£2431.44,11.0%,Bank Transfer,24/02/2025,London
+O00687,Customer_687,Beauty,£15.75,10,£157.5,7.000000000000001%,Bank Transfer,23/12/2024,Birmingham
+O00688,Customer_688,Books,£122.72,8,£981.76,16.0%,Credit Card,28/08/2025,Manchester
+O00689,Customer_689,Electronics,£285.51,8,£2284.08,8.0%,Debit Card,10/09/2025,Birmingham
+O00690,Customer_690,Books,£93.3,8,£746.4,23.0%,Credit Card,24/08/2025,Manchester
+O00691,Customer_691,Home & Garden,£140.1,3,£420.3,10.0%,PayPal,21/03/2025,Liverpool
+O00692,Customer_692,Sports,£407.52,1,£407.52,18.0%,PayPal,10/10/2025,Liverpool
+O00693,Customer_693,Clothing,£447.75,3,£1343.25,23.0%,PayPal,03/12/2024,Birmingham
+O00694,Customer_694,Groceries,£325.52,8,£2604.16,2.0%,Debit Card,04/01/2025,London
+O00695,Customer_695,Books,£471.7,4,£1886.8,8.0%,Debit Card,05/07/2025,Liverpool
+O00696,Customer_696,Toys,£453.99,3,£1361.97,16.0%,Credit Card,23/03/2025,Birmingham
+O00697,Customer_697,Home & Garden,£391.59,4,£1566.36,0.0%,Debit Card,22/07/2025,Liverpool
+O00698,Customer_698,Toys,£363.34,3,£1090.02,13.0%,PayPal,02/12/2024,Liverpool
+O00699,Customer_699,Home & Garden,£164.11,6,£984.66,15.0%,Bank Transfer,12/04/2025,Liverpool
+O00700,Customer_700,Sports,£208.7,10,£2087.0,24.0%,Debit Card,12/03/2025,Liverpool
+O00701,Customer_701,Books,£241.02,5,£1205.1,13.0%,PayPal,04/11/2025,London
+O00702,Customer_702,Groceries,£95.66,2,£191.32,15.0%,Bank Transfer,11/10/2025,London
+O00703,Customer_703,Beauty,£84.74,6,£508.44,1.0%,Credit Card,02/05/2025,Liverpool
+O00704,Customer_704,Home & Garden,£254.37,8,£2034.96,5.0%,Credit Card,06/06/2025,Leeds
+O00705,Customer_705,Toys,£296.65,7,£2076.55,18.0%,Debit Card,20/09/2025,Birmingham
+O00706,Customer_706,Sports,£470.88,9,£4237.92,15.0%,Credit Card,18/11/2025,Manchester
+O00707,Customer_707,Electronics,£127.21,8,£1017.68,25.0%,Bank Transfer,05/11/2025,Manchester
+O00708,Customer_708,Home & Garden,£61.66,7,£431.62,18.0%,Debit Card,26/01/2025,Liverpool
+O00709,Customer_709,Clothing,£281.86,6,£1691.16,17.0%,Credit Card,13/08/2025,Liverpool
+O00710,Customer_710,Groceries,£199.4,6,£1196.4,6.0%,Debit Card,25/01/2025,Birmingham
+O00711,Customer_711,Books,£465.0,4,£1860.0,3.0%,Debit Card,17/12/2024,Leeds
+O00712,Customer_712,Clothing,£444.12,4,£1776.48,7.000000000000001%,Credit Card,08/09/2025,Birmingham
+O00713,Customer_713,Electronics,£165.27,8,£1322.16,17.0%,Bank Transfer,02/09/2025,London
+O00714,Customer_714,Groceries,£87.61,10,£876.1,21.0%,Bank Transfer,29/06/2025,Birmingham
+O00715,Customer_715,Clothing,£220.63,9,£1985.67,19.0%,Bank Transfer,27/02/2025,Liverpool
+O00716,Customer_716,Groceries,£99.49,8,£795.92,17.0%,Credit Card,21/10/2025,Birmingham
+O00717,Customer_717,Electronics,£204.07,1,£204.07,4.0%,PayPal,10/11/2025,Leeds
+O00718,Customer_718,Electronics,£86.73,1,£86.73,13.0%,Credit Card,22/10/2025,London
+O00719,Customer_719,Groceries,£52.2,7,£365.4,7.000000000000001%,PayPal,18/09/2025,Leeds
+O00720,Customer_720,Electronics,£408.1,5,£2040.5,14.000000000000002%,Debit Card,05/08/2025,Leeds
+O00721,Customer_721,Clothing,£342.14,7,£2394.98,8.0%,Credit Card,04/02/2025,Liverpool
+O00722,Customer_722,Beauty,£453.58,8,£3628.64,4.0%,Debit Card,27/09/2025,Leeds
+O00723,Customer_723,Clothing,£112.09,2,£224.18,11.0%,PayPal,22/01/2025,Manchester
+O00724,Customer_724,Clothing,£363.75,8,£2910.0,12.0%,Bank Transfer,30/12/2024,Manchester
+O00725,Customer_725,Groceries,£96.76,8,£774.08,21.0%,Bank Transfer,18/10/2025,Leeds
+O00726,Customer_726,Groceries,£250.1,3,£750.3,4.0%,Credit Card,28/12/2024,London
+O00727,Customer_727,Books,£129.16,3,£387.48,17.0%,Bank Transfer,11/05/2025,Birmingham
+O00728,Customer_728,Groceries,£351.9,8,£2815.2,2.0%,Credit Card,14/12/2024,Liverpool
+O00729,Customer_729,Toys,£69.59,3,£208.77,19.0%,Debit Card,22/07/2025,Manchester
+O00730,Customer_730,Beauty,£329.18,1,£329.18,21.0%,Credit Card,25/03/2025,London
+O00731,Customer_731,Books,£359.77,6,£2158.62,12.0%,PayPal,26/11/2025,Leeds
+O00732,Customer_732,Beauty,£79.36,5,£396.8,17.0%,Debit Card,29/07/2025,Birmingham
+O00733,Customer_733,Beauty,£418.11,10,£4181.1,21.0%,Credit Card,19/04/2025,Manchester
+O00734,Customer_734,Beauty,£389.85,7,£2728.95,20.0%,PayPal,22/07/2025,Manchester
+O00735,Customer_735,Books,£347.08,7,£2429.56,10.0%,Bank Transfer,17/10/2025,Leeds
+O00736,Customer_736,Sports,£62.22,2,£124.44,24.0%,Bank Transfer,14/07/2025,Liverpool
+O00737,Customer_737,Sports,£393.91,4,£1575.64,23.0%,Credit Card,10/02/2025,Manchester
+O00738,Customer_738,Books,£136.15,3,£408.45,21.0%,PayPal,16/11/2025,Manchester
+O00739,Customer_739,Electronics,£499.62,9,£4496.58,1.0%,Debit Card,08/05/2025,London
+O00740,Customer_740,Electronics,£233.11,3,£699.33,8.0%,Debit Card,04/05/2025,Birmingham
+O00741,Customer_741,Books,£137.09,6,£822.54,13.0%,PayPal,29/10/2025,Birmingham
+O00742,Customer_742,Electronics,£421.12,10,£4211.2,12.0%,Credit Card,25/08/2025,Manchester
+O00743,Customer_743,Electronics,£319.05,3,£957.15,16.0%,PayPal,05/11/2025,Birmingham
+O00744,Customer_744,Groceries,£49.02,9,£441.18,24.0%,Debit Card,22/08/2025,Birmingham
+O00745,Customer_745,Toys,£163.49,3,£490.47,8.0%,Debit Card,02/04/2025,Birmingham
+O00746,Customer_746,Electronics,£479.04,5,£2395.2,17.0%,Bank Transfer,22/03/2025,London
+O00747,Customer_747,Electronics,£236.97,5,£1184.85,19.0%,PayPal,09/10/2025,Liverpool
+O00748,Customer_748,Toys,£377.24,9,£3395.16,23.0%,Bank Transfer,25/04/2025,Liverpool
+O00749,Customer_749,Home & Garden,£462.3,5,£2311.5,21.0%,Debit Card,14/09/2025,London
+O00750,Customer_750,Clothing,£110.4,5,£552.0,12.0%,Bank Transfer,24/11/2025,Manchester
+O00751,Customer_751,Groceries,£184.71,7,£1292.97,21.0%,Credit Card,10/05/2025,Liverpool
+O00752,Customer_752,Beauty,£432.36,6,£2594.16,11.0%,Bank Transfer,29/03/2025,Liverpool
+O00753,Customer_753,Beauty,£88.49,10,£884.9,9.0%,Bank Transfer,30/01/2025,Manchester
+O00754,Customer_754,Clothing,£51.37,3,£154.11,5.0%,Bank Transfer,23/10/2025,Liverpool
+O00755,Customer_755,Home & Garden,£14.47,2,£28.94,2.0%,Bank Transfer,20/04/2025,Leeds
+O00756,Customer_756,Beauty,£140.71,2,£281.42,19.0%,Credit Card,06/05/2025,Leeds
+O00757,Customer_757,Beauty,£68.48,1,£68.48,7.000000000000001%,Credit Card,06/08/2025,Manchester
+O00758,Customer_758,Toys,£39.92,5,£199.6,17.0%,Debit Card,20/05/2025,London
+O00759,Customer_759,Beauty,£324.87,4,£1299.48,0.0%,Credit Card,03/01/2025,Liverpool
+O00760,Customer_760,Clothing,£87.2,8,£697.6,24.0%,Bank Transfer,16/09/2025,Leeds
+O00761,Customer_761,Home & Garden,£386.53,6,£2319.18,20.0%,Credit Card,11/07/2025,Manchester
+O00762,Customer_762,Books,£418.61,10,£4186.1,9.0%,PayPal,14/03/2025,London
+O00763,Customer_763,Toys,£36.48,9,£328.32,10.0%,Debit Card,16/06/2025,Birmingham
+O00764,Customer_764,Beauty,£44.53,10,£445.3,6.0%,Credit Card,29/09/2025,Liverpool
+O00765,Customer_765,Clothing,£271.24,9,£2441.16,19.0%,PayPal,26/10/2025,London
+O00766,Customer_766,Beauty,£17.76,1,£17.76,8.0%,Bank Transfer,12/10/2025,Liverpool
+O00767,Customer_767,Books,£167.5,2,£335.0,19.0%,Credit Card,01/03/2025,Liverpool
+O00768,Customer_768,Home & Garden,£60.98,2,£121.96,16.0%,Bank Transfer,05/03/2025,Liverpool
+O00769,Customer_769,Beauty,£97.22,4,£388.88,14.000000000000002%,Bank Transfer,12/08/2025,Manchester
+O00770,Customer_770,Sports,£99.04,2,£198.08,2.0%,Debit Card,14/03/2025,Leeds
+O00771,Customer_771,Electronics,£277.69,1,£277.69,15.0%,Debit Card,02/09/2025,Leeds
+O00772,Customer_772,Clothing,£159.68,9,£1437.12,18.0%,PayPal,24/08/2025,Leeds
+O00773,Customer_773,Sports,£213.69,3,£641.07,17.0%,Bank Transfer,07/11/2025,Manchester
+O00774,Customer_774,Clothing,£21.67,10,£216.7,14.000000000000002%,Credit Card,23/05/2025,Birmingham
+O00775,Customer_775,Electronics,£18.62,7,£130.34,20.0%,Credit Card,11/08/2025,London
+O00776,Customer_776,Groceries,£59.76,6,£358.56,11.0%,PayPal,31/08/2025,Leeds
+O00777,Customer_777,Books,£294.62,5,£1473.1,20.0%,Bank Transfer,16/09/2025,London
+O00778,Customer_778,Beauty,£6.99,5,£34.95,6.0%,Debit Card,16/12/2024,Manchester
+O00779,Customer_779,Sports,£458.28,2,£916.56,6.0%,Debit Card,13/07/2025,Leeds
+O00780,Customer_780,Books,£358.23,8,£2865.84,11.0%,Credit Card,27/08/2025,Birmingham
+O00781,Customer_781,Electronics,£106.13,2,£212.26,12.0%,PayPal,30/06/2025,Manchester
+O00782,Customer_782,Clothing,£447.55,1,£447.55,16.0%,Credit Card,08/03/2025,Leeds
+O00783,Customer_783,Books,£267.32,5,£1336.6,22.0%,PayPal,18/11/2025,Liverpool
+O00784,Customer_784,Beauty,£407.18,1,£407.18,10.0%,Credit Card,02/02/2025,Liverpool
+O00785,Customer_785,Sports,£12.25,6,£73.5,22.0%,Bank Transfer,04/12/2024,London
+O00786,Customer_786,Groceries,£151.64,8,£1213.12,21.0%,PayPal,06/06/2025,Birmingham
+O00787,Customer_787,Groceries,£25.61,8,£204.88,5.0%,Debit Card,19/11/2025,Liverpool
+O00788,Customer_788,Books,£425.07,7,£2975.49,17.0%,Bank Transfer,01/11/2025,London
+O00789,Customer_789,Clothing,£181.05,6,£1086.3,4.0%,Debit Card,13/02/2025,London
+O00790,Customer_790,Electronics,£441.12,3,£1323.36,4.0%,PayPal,18/11/2025,Manchester
+O00791,Customer_791,Toys,£485.21,3,£1455.63,19.0%,Bank Transfer,14/10/2025,Birmingham
+O00792,Customer_792,Beauty,£100.71,4,£402.84,8.0%,Debit Card,22/02/2025,London
+O00793,Customer_793,Home & Garden,£321.69,6,£1930.14,10.0%,Credit Card,23/06/2025,Birmingham
+O00794,Customer_794,Sports,£35.37,8,£282.96,12.0%,PayPal,13/10/2025,London
+O00795,Customer_795,Clothing,£130.0,10,£1300.0,4.0%,Bank Transfer,17/10/2025,Birmingham
+O00796,Customer_796,Home & Garden,£274.26,4,£1097.04,19.0%,Debit Card,02/01/2025,London
+O00797,Customer_797,Electronics,£77.86,8,£622.88,10.0%,Credit Card,19/07/2025,Manchester
+O00798,Customer_798,Clothing,£153.09,5,£765.45,23.0%,PayPal,04/04/2025,Birmingham
+O00799,Customer_799,Sports,£423.61,6,£2541.66,24.0%,Credit Card,12/06/2025,Leeds
+O00800,Customer_800,Clothing,£406.86,7,£2848.02,25.0%,Bank Transfer,31/07/2025,Manchester
+O00801,Customer_801,Home & Garden,£301.5,6,£1809.0,4.0%,Credit Card,13/09/2025,Liverpool
+O00802,Customer_802,Electronics,£196.94,8,£1575.52,7.000000000000001%,Credit Card,06/05/2025,Leeds
+O00803,Customer_803,Clothing,£173.06,8,£1384.48,11.0%,Debit Card,07/06/2025,Birmingham
+O00804,Customer_804,Electronics,£429.57,9,£3866.13,12.0%,Bank Transfer,26/03/2025,London
+O00805,Customer_805,Books,£354.49,3,£1063.47,22.0%,PayPal,03/06/2025,Liverpool
+O00806,Customer_806,Clothing,£233.74,8,£1869.92,20.0%,Debit Card,30/08/2025,London
+O00807,Customer_807,Home & Garden,£205.66,3,£616.98,24.0%,Bank Transfer,26/09/2025,Leeds
+O00808,Customer_808,Toys,£163.01,7,£1141.07,16.0%,Debit Card,09/08/2025,Liverpool
+O00809,Customer_809,Books,£98.42,4,£393.68,5.0%,Credit Card,03/11/2025,Manchester
+O00810,Customer_810,Electronics,£12.86,8,£102.88,10.0%,PayPal,07/08/2025,Birmingham
+O00811,Customer_811,Groceries,£117.11,8,£936.88,4.0%,Credit Card,02/11/2025,London
+O00812,Customer_812,Beauty,£35.36,3,£106.08,9.0%,Credit Card,10/05/2025,Birmingham
+O00813,Customer_813,Books,£153.26,10,£1532.6,19.0%,Debit Card,11/08/2025,Liverpool
+O00814,Customer_814,Toys,£7.41,7,£51.87,21.0%,Credit Card,24/12/2024,Manchester
+O00815,Customer_815,Home & Garden,£253.16,6,£1518.96,0.0%,PayPal,07/06/2025,Manchester
+O00816,Customer_816,Electronics,£398.92,7,£2792.44,20.0%,PayPal,24/06/2025,Leeds
+O00817,Customer_817,Beauty,£346.82,1,£346.82,11.0%,Credit Card,31/12/2024,Liverpool
+O00818,Customer_818,Sports,£411.67,7,£2881.69,10.0%,Debit Card,01/12/2025,Liverpool
+O00819,Customer_819,Toys,£114.34,1,£114.34,13.0%,Debit Card,20/02/2025,London
+O00820,Customer_820,Clothing,£463.43,7,£3244.01,24.0%,Debit Card,03/02/2025,Liverpool
+O00821,Customer_821,Home & Garden,£193.21,8,£1545.68,13.0%,PayPal,13/01/2025,Birmingham
+O00822,Customer_822,Sports,£218.41,1,£218.41,16.0%,PayPal,02/07/2025,London
+O00823,Customer_823,Home & Garden,£324.81,9,£2923.29,17.0%,Credit Card,10/02/2025,Leeds
+O00824,Customer_824,Electronics,£292.31,1,£292.31,2.0%,Bank Transfer,21/03/2025,Manchester
+O00825,Customer_825,Toys,£474.52,5,£2372.6,25.0%,Debit Card,30/07/2025,Leeds
+O00826,Customer_826,Sports,£397.23,4,£1588.92,8.0%,Credit Card,14/06/2025,Manchester
+O00827,Customer_827,Toys,£86.55,10,£865.5,0.0%,Debit Card,11/09/2025,Birmingham
+O00828,Customer_828,Books,£60.7,1,£60.7,16.0%,Bank Transfer,04/04/2025,Manchester
+O00829,Customer_829,Sports,£125.6,7,£879.2,2.0%,Debit Card,04/04/2025,Manchester
+O00830,Customer_830,Groceries,£153.82,2,£307.64,12.0%,Bank Transfer,24/04/2025,London
+O00831,Customer_831,Beauty,£78.9,3,£236.7,19.0%,PayPal,24/09/2025,Birmingham
+O00832,Customer_832,Beauty,£125.31,3,£375.93,2.0%,Credit Card,02/11/2025,Manchester
+O00833,Customer_833,Electronics,£447.02,2,£894.04,22.0%,Debit Card,20/12/2024,Leeds
+O00834,Customer_834,Books,£473.53,5,£2367.65,17.0%,PayPal,17/02/2025,Manchester
+O00835,Customer_835,Electronics,£488.43,6,£2930.58,8.0%,Debit Card,12/04/2025,London
+O00836,Customer_836,Books,£12.66,1,£12.66,9.0%,Debit Card,03/12/2024,Manchester
+O00837,Customer_837,Beauty,£477.77,8,£3822.16,3.0%,Credit Card,24/10/2025,London
+O00838,Customer_838,Books,£435.24,1,£435.24,15.0%,PayPal,07/10/2025,Birmingham
+O00839,Customer_839,Toys,£441.71,2,£883.42,18.0%,Credit Card,01/09/2025,Manchester
+O00840,Customer_840,Clothing,£90.65,2,£181.3,6.0%,Bank Transfer,23/01/2025,Manchester
+O00841,Customer_841,Toys,£178.19,7,£1247.33,21.0%,Bank Transfer,31/12/2024,Birmingham
+O00842,Customer_842,Sports,£134.1,7,£938.7,11.0%,Debit Card,27/06/2025,Leeds
+O00843,Customer_843,Clothing,£111.44,2,£222.88,10.0%,PayPal,18/02/2025,Leeds
+O00844,Customer_844,Beauty,£50.76,3,£152.28,20.0%,Debit Card,11/01/2025,London
+O00845,Customer_845,Electronics,£58.82,9,£529.38,2.0%,PayPal,16/11/2025,Birmingham
+O00846,Customer_846,Toys,£348.32,5,£1741.6,17.0%,PayPal,16/07/2025,London
+O00847,Customer_847,Toys,£248.61,8,£1988.88,24.0%,Debit Card,19/01/2025,Leeds
+O00848,Customer_848,Clothing,£97.88,5,£489.4,1.0%,Debit Card,17/04/2025,Manchester
+O00849,Customer_849,Toys,£266.48,6,£1598.88,1.0%,Bank Transfer,09/02/2025,Manchester
+O00850,Customer_850,Books,£75.1,3,£225.3,9.0%,Bank Transfer,04/12/2024,Leeds
+O00851,Customer_851,Clothing,£347.8,10,£3478.0,17.0%,Bank Transfer,14/05/2025,Leeds
+O00852,Customer_852,Electronics,£159.83,8,£1278.64,15.0%,PayPal,16/07/2025,Leeds
+O00853,Customer_853,Sports,£151.14,6,£906.84,24.0%,PayPal,21/11/2025,Birmingham
+O00854,Customer_854,Sports,£327.94,10,£3279.4,6.0%,PayPal,30/09/2025,Liverpool
+O00855,Customer_855,Clothing,£100.62,7,£704.34,24.0%,Bank Transfer,20/11/2025,Birmingham
+O00856,Customer_856,Home & Garden,£76.02,8,£608.16,9.0%,Debit Card,29/11/2025,Liverpool
+O00857,Customer_857,Clothing,£125.74,9,£1131.66,12.0%,Bank Transfer,30/05/2025,London
+O00858,Customer_858,Groceries,£38.83,3,£116.49,2.0%,Bank Transfer,31/10/2025,Birmingham
+O00859,Customer_859,Groceries,£127.15,1,£127.15,16.0%,PayPal,18/11/2025,Birmingham
+O00860,Customer_860,Beauty,£492.16,7,£3445.12,15.0%,Credit Card,05/12/2024,Leeds
+O00861,Customer_861,Clothing,£201.71,7,£1411.97,17.0%,Bank Transfer,17/01/2025,London
+O00862,Customer_862,Clothing,£70.81,7,£495.67,20.0%,Credit Card,17/06/2025,Birmingham
+O00863,Customer_863,Clothing,£6.56,3,£19.68,5.0%,Bank Transfer,22/07/2025,Leeds
+O00864,Customer_864,Sports,£122.12,6,£732.72,17.0%,Bank Transfer,31/07/2025,Liverpool
+O00865,Customer_865,Clothing,£482.2,4,£1928.8,19.0%,PayPal,28/09/2025,London
+O00866,Customer_866,Toys,£24.64,3,£73.92,6.0%,Credit Card,27/01/2025,Liverpool
+O00867,Customer_867,Home & Garden,£94.48,10,£944.8,1.0%,Debit Card,16/04/2025,Manchester
+O00868,Customer_868,Electronics,£244.62,1,£244.62,21.0%,PayPal,19/04/2025,London
+O00869,Customer_869,Sports,£90.82,10,£908.2,18.0%,Bank Transfer,07/11/2025,Birmingham
+O00870,Customer_870,Toys,£422.43,9,£3801.87,3.0%,Credit Card,26/08/2025,Manchester
+O00871,Customer_871,Toys,£298.2,9,£2683.8,1.0%,Bank Transfer,30/01/2025,Manchester
+O00872,Customer_872,Sports,£119.24,3,£357.72,18.0%,Bank Transfer,02/02/2025,Leeds
+O00873,Customer_873,Electronics,£381.76,2,£763.52,18.0%,PayPal,01/09/2025,Liverpool
+O00874,Customer_874,Electronics,£192.15,1,£192.15,23.0%,PayPal,25/05/2025,Birmingham
+O00875,Customer_875,Groceries,£94.0,8,£752.0,2.0%,Debit Card,01/09/2025,Manchester
+O00876,Customer_876,Beauty,£155.58,5,£777.9,24.0%,Credit Card,11/10/2025,Birmingham
+O00877,Customer_877,Toys,£431.19,3,£1293.57,12.0%,PayPal,27/09/2025,Leeds
+O00878,Customer_878,Beauty,£53.61,10,£536.1,20.0%,Credit Card,20/11/2025,Leeds
+O00879,Customer_879,Beauty,£477.79,9,£4300.11,5.0%,Bank Transfer,30/08/2025,Birmingham
+O00880,Customer_880,Beauty,£33.08,4,£132.32,5.0%,Bank Transfer,04/05/2025,Manchester
+O00881,Customer_881,Beauty,£306.8,9,£2761.2,7.000000000000001%,Credit Card,11/11/2025,Birmingham
+O00882,Customer_882,Books,£116.93,8,£935.44,21.0%,Credit Card,15/07/2025,London
+O00883,Customer_883,Electronics,£219.61,4,£878.44,17.0%,Bank Transfer,11/09/2025,Birmingham
+O00884,Customer_884,Beauty,£431.14,9,£3880.26,13.0%,PayPal,17/05/2025,Birmingham
+O00885,Customer_885,Electronics,£380.09,7,£2660.63,20.0%,Credit Card,30/06/2025,Birmingham
+O00886,Customer_886,Home & Garden,£125.14,3,£375.42,9.0%,Debit Card,17/03/2025,Manchester
+O00887,Customer_887,Home & Garden,£389.27,8,£3114.16,16.0%,Debit Card,01/11/2025,London
+O00888,Customer_888,Sports,£138.9,10,£1389.0,5.0%,Bank Transfer,07/11/2025,Leeds
+O00889,Customer_889,Beauty,£160.78,6,£964.68,22.0%,Bank Transfer,05/08/2025,Birmingham
+O00890,Customer_890,Books,£105.38,4,£421.52,4.0%,Debit Card,01/03/2025,Leeds
+O00891,Customer_891,Home & Garden,£166.65,1,£166.65,6.0%,Bank Transfer,16/04/2025,London
+O00892,Customer_892,Clothing,£76.03,9,£684.27,20.0%,PayPal,07/08/2025,Birmingham
+O00893,Customer_893,Electronics,£337.69,9,£3039.21,9.0%,PayPal,24/10/2025,Birmingham
+O00894,Customer_894,Beauty,£304.6,3,£913.8,22.0%,PayPal,10/09/2025,Liverpool
+O00895,Customer_895,Beauty,£262.02,7,£1834.14,8.0%,Debit Card,27/03/2025,London
+O00896,Customer_896,Groceries,£411.18,10,£4111.8,23.0%,Credit Card,05/09/2025,London
+O00897,Customer_897,Toys,£68.65,2,£137.3,10.0%,Debit Card,11/07/2025,Birmingham
+O00898,Customer_898,Groceries,£186.88,6,£1121.28,20.0%,Credit Card,05/04/2025,Liverpool
+O00899,Customer_899,Sports,£148.01,7,£1036.07,8.0%,PayPal,21/04/2025,London
+O00900,Customer_900,Electronics,£477.69,3,£1433.07,9.0%,Bank Transfer,04/12/2024,Liverpool
+O00901,Customer_901,Home & Garden,£152.01,9,£1368.09,11.0%,Bank Transfer,12/04/2025,Liverpool
+O00902,Customer_902,Books,£154.88,2,£309.76,12.0%,Credit Card,21/10/2025,Manchester
+O00903,Customer_903,Toys,£39.74,10,£397.4,5.0%,PayPal,04/08/2025,Manchester
+O00904,Customer_904,Home & Garden,£470.97,8,£3767.76,12.0%,Debit Card,14/08/2025,London
+O00905,Customer_905,Beauty,£23.32,8,£186.56,19.0%,PayPal,14/07/2025,London
+O00906,Customer_906,Clothing,£434.5,1,£434.5,25.0%,PayPal,18/03/2025,Manchester
+O00907,Customer_907,Toys,£56.4,6,£338.4,11.0%,Credit Card,05/09/2025,Leeds
+O00908,Customer_908,Toys,£308.54,6,£1851.24,14.000000000000002%,Credit Card,03/06/2025,Birmingham
+O00909,Customer_909,Clothing,£33.52,3,£100.56,22.0%,Debit Card,03/05/2025,Birmingham
+O00910,Customer_910,Books,£312.77,1,£312.77,12.0%,Bank Transfer,27/05/2025,Manchester
+O00911,Customer_911,Groceries,£361.7,8,£2893.6,9.0%,Credit Card,24/06/2025,Birmingham
+O00912,Customer_912,Sports,£130.71,4,£522.84,4.0%,Credit Card,03/05/2025,Liverpool
+O00913,Customer_913,Beauty,£93.62,9,£842.58,19.0%,Bank Transfer,10/09/2025,Manchester
+O00914,Customer_914,Beauty,£229.21,2,£458.42,6.0%,Debit Card,21/05/2025,Birmingham
+O00915,Customer_915,Electronics,£416.13,7,£2912.91,20.0%,Credit Card,14/12/2024,Leeds
+O00916,Customer_916,Beauty,£27.09,10,£270.9,2.0%,Debit Card,11/01/2025,Birmingham
+O00917,Customer_917,Electronics,£446.61,4,£1786.44,15.0%,PayPal,07/09/2025,London
+O00918,Customer_918,Books,£405.08,9,£3645.72,19.0%,PayPal,02/04/2025,Leeds
+O00919,Customer_919,Home & Garden,£116.45,1,£116.45,11.0%,Credit Card,05/10/2025,Liverpool
+O00920,Customer_920,Groceries,£363.06,4,£1452.24,4.0%,PayPal,11/04/2025,London
+O00921,Customer_921,Groceries,£470.37,3,£1411.11,1.0%,Credit Card,21/07/2025,Birmingham
+O00922,Customer_922,Toys,£163.89,6,£983.34,23.0%,Credit Card,12/01/2025,Manchester
+O00923,Customer_923,Clothing,£450.99,1,£450.99,22.0%,Debit Card,13/05/2025,Birmingham
+O00924,Customer_924,Beauty,£136.53,2,£273.06,2.0%,Bank Transfer,18/06/2025,London
+O00925,Customer_925,Electronics,£297.19,10,£2971.9,21.0%,Credit Card,16/12/2024,Manchester
+O00926,Customer_926,Electronics,£114.38,5,£571.9,1.0%,Debit Card,14/10/2025,Liverpool
+O00927,Customer_927,Clothing,£253.4,2,£506.8,14.000000000000002%,Debit Card,10/07/2025,Leeds
+O00928,Customer_928,Toys,£163.31,4,£653.24,17.0%,Debit Card,13/06/2025,London
+O00929,Customer_929,Clothing,£285.21,9,£2566.89,15.0%,PayPal,07/01/2025,Leeds
+O00930,Customer_930,Toys,£151.8,7,£1062.6,6.0%,Credit Card,19/07/2025,London
+O00931,Customer_931,Toys,£497.44,10,£4974.4,21.0%,PayPal,19/05/2025,Liverpool
+O00932,Customer_932,Electronics,£131.36,3,£394.08,12.0%,Bank Transfer,13/07/2025,Leeds
+O00933,Customer_933,Clothing,£359.98,3,£1079.94,22.0%,Credit Card,04/02/2025,Birmingham
+O00934,Customer_934,Home & Garden,£330.93,9,£2978.37,16.0%,PayPal,16/04/2025,Birmingham
+O00935,Customer_935,Sports,£255.79,3,£767.37,23.0%,Bank Transfer,29/06/2025,Liverpool
+O00936,Customer_936,Clothing,£286.27,10,£2862.7,5.0%,Bank Transfer,04/06/2025,London
+O00937,Customer_937,Beauty,£15.34,4,£61.36,14.000000000000002%,Debit Card,27/10/2025,Liverpool
+O00938,Customer_938,Home & Garden,£476.28,9,£4286.52,17.0%,Bank Transfer,18/01/2025,Manchester
+O00939,Customer_939,Beauty,£338.72,7,£2371.04,12.0%,Credit Card,18/05/2025,London
+O00940,Customer_940,Electronics,£259.9,1,£259.9,23.0%,PayPal,10/06/2025,Birmingham
+O00941,Customer_941,Books,£140.06,7,£980.42,13.0%,Bank Transfer,15/05/2025,Birmingham
+O00942,Customer_942,Sports,£341.04,10,£3410.4,20.0%,Debit Card,07/07/2025,Birmingham
+O00943,Customer_943,Books,£69.18,6,£415.08,15.0%,Bank Transfer,14/10/2025,Birmingham
+O00944,Customer_944,Beauty,£475.82,6,£2854.92,21.0%,Bank Transfer,06/02/2025,London
+O00945,Customer_945,Books,£24.65,4,£98.6,15.0%,Debit Card,21/08/2025,Leeds
+O00946,Customer_946,Books,£253.97,8,£2031.76,15.0%,PayPal,14/04/2025,London
+O00947,Customer_947,Sports,£22.22,4,£88.88,5.0%,Bank Transfer,14/10/2025,London
+O00948,Customer_948,Electronics,£12.25,3,£36.75,7.000000000000001%,Bank Transfer,02/03/2025,Leeds
+O00949,Customer_949,Books,£44.65,7,£312.55,22.0%,Bank Transfer,05/06/2025,Manchester
+O00950,Customer_950,Beauty,£313.74,6,£1882.44,13.0%,PayPal,31/12/2024,Birmingham
+O00951,Customer_951,Electronics,£379.54,4,£1518.16,7.000000000000001%,Debit Card,04/12/2024,London
+O00952,Customer_952,Books,£239.64,7,£1677.48,14.000000000000002%,Bank Transfer,25/01/2025,Leeds
+O00953,Customer_953,Beauty,£205.47,7,£1438.29,7.000000000000001%,Credit Card,02/12/2025,Leeds
+O00954,Customer_954,Clothing,£348.73,1,£348.73,4.0%,Bank Transfer,22/04/2025,Liverpool
+O00955,Customer_955,Books,£80.39,8,£643.12,11.0%,PayPal,10/06/2025,Liverpool
+O00956,Customer_956,Electronics,£274.94,8,£2199.52,18.0%,Bank Transfer,29/01/2025,Birmingham
+O00957,Customer_957,Sports,£157.74,10,£1577.4,15.0%,Credit Card,16/03/2025,Manchester
+O00958,Customer_958,Electronics,£434.72,5,£2173.6,14.000000000000002%,Bank Transfer,04/05/2025,Birmingham
+O00959,Customer_959,Toys,£324.71,9,£2922.39,20.0%,PayPal,24/10/2025,Birmingham
+O00960,Customer_960,Sports,£216.2,4,£864.8,8.0%,Bank Transfer,06/02/2025,Liverpool
+O00961,Customer_961,Books,£431.41,4,£1725.64,14.000000000000002%,PayPal,14/01/2025,Birmingham
+O00962,Customer_962,Home & Garden,£18.52,9,£166.68,17.0%,Bank Transfer,30/11/2025,Leeds
+O00963,Customer_963,Home & Garden,£115.49,1,£115.49,10.0%,Debit Card,22/10/2025,Birmingham
+O00964,Customer_964,Groceries,£260.58,2,£521.16,16.0%,Debit Card,19/12/2024,Birmingham
+O00965,Customer_965,Sports,£13.45,2,£26.9,5.0%,Bank Transfer,27/10/2025,Liverpool
+O00966,Customer_966,Toys,£345.36,7,£2417.52,12.0%,Bank Transfer,22/07/2025,Liverpool
+O00967,Customer_967,Electronics,£443.52,2,£887.04,1.0%,PayPal,07/05/2025,Manchester
+O00968,Customer_968,Electronics,£253.44,7,£1774.08,9.0%,Debit Card,09/02/2025,Birmingham
+O00969,Customer_969,Sports,£178.28,5,£891.4,17.0%,PayPal,07/09/2025,Liverpool
+O00970,Customer_970,Groceries,£65.21,3,£195.63,25.0%,PayPal,19/12/2024,Manchester
+O00971,Customer_971,Electronics,£172.59,1,£172.59,24.0%,PayPal,16/11/2025,Liverpool
+O00972,Customer_972,Electronics,£11.46,10,£114.6,4.0%,Debit Card,25/10/2025,Leeds
+O00973,Customer_973,Toys,£45.69,1,£45.69,17.0%,Debit Card,23/05/2025,Birmingham
+O00974,Customer_974,Books,£83.42,3,£250.26,23.0%,Debit Card,07/11/2025,Liverpool
+O00975,Customer_975,Beauty,£492.37,3,£1477.11,17.0%,Debit Card,13/03/2025,Birmingham
+O00976,Customer_976,Beauty,£427.03,4,£1708.12,12.0%,PayPal,07/01/2025,Birmingham
+O00977,Customer_977,Clothing,£42.85,4,£171.4,4.0%,PayPal,27/11/2025,Birmingham
+O00978,Customer_978,Home & Garden,£15.56,8,£124.48,1.0%,Bank Transfer,16/12/2024,Leeds
+O00979,Customer_979,Electronics,£369.65,1,£369.65,13.0%,Debit Card,02/08/2025,Liverpool
+O00980,Customer_980,Electronics,£161.88,1,£161.88,23.0%,Credit Card,05/01/2025,London
+O00981,Customer_981,Home & Garden,£310.22,4,£1240.88,12.0%,Bank Transfer,05/06/2025,Birmingham
+O00982,Customer_982,Electronics,£346.57,3,£1039.71,18.0%,PayPal,14/08/2025,Birmingham
+O00983,Customer_983,Clothing,£51.31,2,£102.62,7.000000000000001%,PayPal,21/01/2025,Leeds
+O00984,Customer_984,Books,£307.33,4,£1229.32,17.0%,PayPal,18/12/2024,Birmingham
+O00985,Customer_985,Home & Garden,£23.66,10,£236.6,24.0%,PayPal,06/01/2025,Liverpool
+O00986,Customer_986,Clothing,£467.01,3,£1401.03,22.0%,Bank Transfer,06/10/2025,Liverpool
+O00987,Customer_987,Beauty,£70.04,8,£560.32,8.0%,Credit Card,02/09/2025,Leeds
+O00988,Customer_988,Electronics,£36.75,6,£220.5,6.0%,Bank Transfer,03/07/2025,London
+O00989,Customer_989,Clothing,£299.75,8,£2398.0,4.0%,Debit Card,07/04/2025,Manchester
+O00990,Customer_990,Toys,£251.18,6,£1507.08,1.0%,PayPal,12/06/2025,London
+O00991,Customer_991,Toys,£103.25,6,£619.5,9.0%,Credit Card,13/09/2025,Liverpool
+O00992,Customer_992,Books,£432.74,3,£1298.22,16.0%,Debit Card,12/05/2025,Liverpool
+O00993,Customer_993,Groceries,£302.87,10,£3028.7,23.0%,Credit Card,09/11/2025,London
+O00994,Customer_994,Groceries,£210.98,10,£2109.8,23.0%,Credit Card,05/07/2025,Leeds
+O00995,Customer_995,Home & Garden,£335.14,10,£3351.4,8.0%,Bank Transfer,20/07/2025,Leeds
+O00996,Customer_996,Clothing,£277.1,4,£1108.4,1.0%,Bank Transfer,10/09/2025,Birmingham
+O00997,Customer_997,Home & Garden,£193.68,2,£387.36,15.0%,Credit Card,11/11/2025,Liverpool
+O00998,Customer_998,Groceries,£61.55,7,£430.85,1.0%,PayPal,31/08/2025,London
+O00999,Customer_999,Home & Garden,£237.0,5,£1185.0,6.0%,Bank Transfer,03/03/2025,Manchester
+O01000,Customer_1000,Home & Garden,£236.66,6,£1419.96,20.0%,PayPal,27/06/2025,Liverpool
