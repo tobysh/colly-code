@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "date": "2025-01-01",
+        "location": "Junction 1",
+        "vehicle_count": 105,
+        "average_speed_kmh": 31,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 2,
+        "date": "2025-01-02",
+        "location": "Junction 2",
+        "vehicle_count": 110,
+        "average_speed_kmh": 32,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 3,
+        "date": "2025-01-03",
+        "location": "Junction 3",
+        "vehicle_count": 115,
+        "average_speed_kmh": 33,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 4,
+        "date": "2025-01-04",
+        "location": "Junction 4",
+        "vehicle_count": 120,
+        "average_speed_kmh": 34,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 5,
+        "date": "2025-01-05",
+        "location": "Junction 5",
+        "vehicle_count": 125,
+        "average_speed_kmh": 35,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 6,
+        "date": "2025-01-06",
+        "location": "Junction 6",
+        "vehicle_count": 130,
+        "average_speed_kmh": 36,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 7,
+        "date": "2025-01-07",
+        "location": "Junction 7",
+        "vehicle_count": 135,
+        "average_speed_kmh": 37,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 8,
+        "date": "2025-01-08",
+        "location": "Junction 8",
+        "vehicle_count": 140,
+        "average_speed_kmh": 38,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 9,
+        "date": "2025-01-09",
+        "location": "Junction 9",
+        "vehicle_count": 145,
+        "average_speed_kmh": 39,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 10,
+        "date": "2025-01-10",
+        "location": "Junction 10",
+        "vehicle_count": 150,
+        "average_speed_kmh": 30,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 11,
+        "date": "2025-01-11",
+        "location": "Junction 11",
+        "vehicle_count": 155,
+        "average_speed_kmh": 31,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 12,
+        "date": "2025-01-12",
+        "location": "Junction 12",
+        "vehicle_count": 160,
+        "average_speed_kmh": 32,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 13,
+        "date": "2025-01-13",
+        "location": "Junction 13",
+        "vehicle_count": 165,
+        "average_speed_kmh": 33,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 14,
+        "date": "2025-01-14",
+        "location": "Junction 14",
+        "vehicle_count": 170,
+        "average_speed_kmh": 34,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 15,
+        "date": "2025-01-15",
+        "location": "Junction 15",
+        "vehicle_count": 175,
+        "average_speed_kmh": 35,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 16,
+        "date": "2025-01-16",
+        "location": "Junction 16",
+        "vehicle_count": 180,
+        "average_speed_kmh": 36,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 17,
+        "date": "2025-01-17",
+        "location": "Junction 17",
+        "vehicle_count": 185,
+        "average_speed_kmh": 37,
+        "peak_hour": "9:00"
+    },
+    {
+        "id": 18,
+        "date": "2025-01-18",
+        "location": "Junction 18",
+        "vehicle_count": 190,
+        "average_speed_kmh": 38,
+        "peak_hour": "7:00"
+    },
+    {
+        "id": 19,
+        "date": "2025-01-19",
+        "location": "Junction 19",
+        "vehicle_count": 195,
+        "average_speed_kmh": 39,
+        "peak_hour": "8:00"
+    },
+    {
+        "id": 20,
+        "date": "2025-01-20",
+        "location": "Junction 20",
+        "vehicle_count": 200,
+        "average_speed_kmh": 30,
+        "peak_hour": "9:00"
+    }
+]
