@@ -18,10 +18,10 @@ df_1L = df.iloc[9:20, [1,3]] #1l
 print(f"💠---Task 1f---\n{df_calories}")
 print(f"💠---Task 1g---\n{df_duration_calories}")
 print(f"💠---Task 1h---\n{df.dtypes}") #1h
-print(f"💠---Task 1i---\n{df_mid}")
-print(f"💠---Task 1j---\n{df_1j}")
-print(f"💠---Task 1k---\n{df_1k}")
-print(f"💠---Task 1l---\n{df_1L}")
+print(f"💠---Task 1i---\n{df_mid}") #1i
+print(f"💠---Task 1j---\n{df_1j}") #1j
+print(f"💠---Task 1k---\n{df_1k}") #1k
+print(f"💠---Task 1l---\n{df_1L}") #1l
 print(df_1j.info())
 
-#Task 2, The difference between df.iloc[10:20] and df.loc[10:20] is that iloc begins indexing at 0 while loc begins indexing at 1, meaning iloc has 1 earlier index.
+print("Task 2, The difference between df.iloc[10:20] and df.loc[10:20] is that iloc begins indexing at 0 while loc begins indexing at 1, meaning iloc has 1 earlier index.")
