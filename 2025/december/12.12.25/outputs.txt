@@ -1,0 +1,60 @@
+---Supermarket---
+   Product_ID Product_Name   Category  Price (£)  ...  Supplier  Date_Added Sales    Location
+0      P00001    Inventore     Frozen      17.27  ...     Tesco  2025-05-23   265  Manchester
+1      P00002   Recusandae      Dairy      37.21  ...      Aldi  2025-04-14   492   Liverpool
+2      P00003   Laboriosam     Frozen       1.58  ...     Tesco  2024-06-11   705   Liverpool
+3      P00004         Esse  Beverages      30.73  ...  Waitrose  2025-10-28   373       Leeds
+4      P00005     Voluptas    Produce      49.31  ...  Waitrose  2024-11-10   227  Manchester
+5      P00006    Explicabo     Bakery       6.60  ...     Tesco  2025-09-28   113  Manchester
+6      P00007       Fugiat     Frozen       3.69  ...  Waitrose  2025-09-27   998  Birmingham
+7      P00008    Assumenda     Bakery       7.35  ...      Lidl  2024-09-17    45       Leeds
+8      P00009  Praesentium  Beverages      21.96  ...  Waitrose  2025-07-29   328       Leeds
+9      P00010      Debitis     Bakery      40.54  ...      Aldi  2024-03-12   953       Leeds
+10     P00011           Ea  Beverages      17.06  ...      Lidl  2024-09-30   269       Leeds
+11     P00012       Facere    Produce       7.73  ...      Lidl  2024-05-08   420   Liverpool
+
+[12 rows x 10 columns]
+---Pharmacy---
+   Medicine_ID Medicine_Name          Category  ...  Expiry_Date  Sales    Location
+0       M00001   Repellendus          Vitamins  ...   2027-09-23    397  Manchester
+1       M00002          Odit          Vitamins  ...   2028-09-21    162       Leeds
+2       M00003      Deleniti  Digestive Health  ...   2026-06-22    440      London
+3       M00004          Quae        Cold & Flu  ...   2028-07-25    123      London
+4       M00005     Accusamus        Cold & Flu  ...   2028-10-27    244      London
+5       M00006          Enim       Pain Relief  ...   2028-10-25    189       Leeds
+6       M00007       Nostrum       Pain Relief  ...   2028-01-03     62  Birmingham
+7       M00008          Unde         Skin Care  ...   2026-08-17    151  Birmingham
+8       M00009   Praesentium          Vitamins  ...   2027-11-25    144  Manchester
+9       M00010      Sapiente          Vitamins  ...   2027-09-02    135  Birmingham
+10      M00011      Nesciunt          Vitamins  ...   2027-09-30     27  Manchester
+11      M00012        Cumque       Pain Relief  ...   2027-05-24    356   Liverpool
+
+[12 rows x 10 columns]
+---Supermarket Shape---
+(1000, 10)
+---Pharmacy Shape---
+(1000, 10)
+---Supermarket Info---
+None
+---Pharmacy Info---
+None
+---Supermarket Description---
+         Price (£)     Discount        Stock        Sales
+count  1000.000000  1000.000000  1000.000000  1000.000000
+mean     24.833730     0.155110   253.293000   492.962000
+std      14.185033     0.087125   143.848871   292.153368
+min       0.500000     0.000000     0.000000     0.000000
+25%      12.745000     0.080000   132.000000   239.500000
+50%      24.610000     0.160000   256.000000   491.000000
+75%      36.837500     0.230000   377.500000   741.000000
+max      49.970000     0.300000   500.000000  1000.000000
+---Pharmacy Description---
+         Price (£)        Stock        Sales
+count  1000.000000  1000.000000  1000.000000
+mean     49.813330    99.267000   251.793000
+std      28.226535    58.970325   145.456302
+min       1.070000     0.000000     1.000000
+25%      24.340000    47.750000   123.000000
+50%      49.390000    98.000000   247.000000
+75%      73.532500   150.000000   376.250000
+max      99.810000   200.000000   499.000000
