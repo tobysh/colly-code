@@ -1,8 +1,8 @@
 import turtle as t
-for i in range(100):
+for i in range(100000000000):
     t.pd()
     t.speed(100)
-    t.rt(90)
-    t.fd(10*i)
+    t.rt(91)
+    t.fd(i)
     
 input()
