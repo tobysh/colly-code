@@ -1,9 +1,11 @@
+global balance
 balance = 500
 
 def check_balance():
     print(balance)
     
 def deposit_money():
+    global balance 
     addition = None
     while not addition:
         try:
@@ -17,6 +19,8 @@ def deposit_money():
         print("Deposit amounts cannot be below 0.")
     
 def withdraw_money():
+    global balance 
+    
     amount = None
     while not amount:
         try:
