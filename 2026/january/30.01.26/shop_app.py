@@ -62,5 +62,5 @@ while True:
         try:
             choice = int(input(">"))
         except ValueError:
-            print("Invalid Price")
+            print("Invalid choice")
     menu_dict[choice]()

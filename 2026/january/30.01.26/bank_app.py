@@ -20,7 +20,6 @@ def deposit_money():
     
 def withdraw_money():
     global balance 
-    
     amount = None
     while not amount:
         try:
@@ -61,5 +60,5 @@ while True:
         try:
             choice = int(input(">"))
         except ValueError:
-            print("Invalid Price")
+            print("Invalid choice")
     menu_dict[choice]()
