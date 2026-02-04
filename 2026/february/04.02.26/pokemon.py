@@ -47,3 +47,7 @@ sorted_defense = df.sort_values("Defense")
 print(sorted_defense.head())
 sorted_total = df.sort_values("Total", ascending=False)
 print(f"---Task 6.3---\n{sorted_total.head(10)}")
+
+#TASK 7
+grouped = df.groupby("Type_1")
+print(grouped.index)
