@@ -26,4 +26,4 @@ speedyPokemon = df[(df["Speed"]>100)]
 print(speedyPokemon)
 
 #TASK 4
-print(f"---Task 4---{df.iloc[0:10,0:5]}")
+print(f"---Task 4---\n{df.iloc[0:10,0:5]}")
