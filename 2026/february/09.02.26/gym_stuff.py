@@ -11,7 +11,7 @@ members = {}
 payments = {}
 
 def register():
-    name = input("Enter your name: ")
+    name = input("Enter your name: ").capitalize()
     age = None
     while not age:
         try:
@@ -33,11 +33,13 @@ def view_types():
     
 def calculate_fee():
     while True:
-        tier = input("Enter your membership: ")
+        tier = input("Enter your membership: ").lower()
         level = types.get(tier)
         if types.get(tier):
             break
-        print(f"Your fee is £{level}/month")
+        else:
+            print("Invalid membership type.")
+    print(f"Your fee is £{level}/month")
     
 def record_payment():
     while True:
@@ -47,15 +49,18 @@ def record_payment():
             if member:
                 while True:
                     try:
-                        amount = int(input("Enter the payment amount: "))
+                        amount = float(input("Enter the payment amount: "))
+                        break    
                     except:
-                        print("Enter a valid integer.")
-                    break
-                id = len(payments)
-                payments.update({id:{"member":m_id,"amount":amount,"time":datetime.now()}})
+                        print("Enter a valid monetary amount.")
+                    id = len(payments)
+                    payments.update({id:{"member":m_id,"amount":amount,"time":datetime.now()}})
+                break
+                
+            else:
+                print("Not a valid member")
         except ValueError:
             print("Enter a valid ID")
-        break
     
     now = datetime.now()
     print("Done! Payment submitted at", now.strftime("%I:%M %p"))
