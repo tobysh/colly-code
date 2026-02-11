@@ -50,4 +50,5 @@ print(f"---Task 6.3---\n{sorted_total.head(10)}")
 
 #TASK 7
 grouped = df.groupby("Type_1")
-print(grouped.index)
+print(f"---Task 7.1---{grouped.groups.keys()}")
+
