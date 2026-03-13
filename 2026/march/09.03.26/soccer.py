@@ -64,5 +64,5 @@ def task4(df):
     print("Matches played:", matches)
 
 def task5(df):
- 
+  
 menu()
