@@ -23,6 +23,12 @@ def menu():
       task1(df)
     elif choice==2:
       task2(df)
+    elif choice==3:
+      task3(df)
+    elif choice==4:
+      task4(df)
+    elif choice==5:
+      task5(df)
  
 def load_prep_data():
   # Load data
@@ -41,13 +47,22 @@ def task1(df):
  
 def task2(df):
   teamName = input("What\'s the team name?").strip()
-  home = (df.loc[df["HomeTeam"] == teamName, ["FullTimeResult"]]=="H").count()
-  print(home)
+  home = df[(df["HomeTeam"]==teamName) & (df["FullTimeResult"]=="H")]["FullTimeResult"].count()
+  away = df[(df["AwayTeam"]==teamName) & (df["FullTimeResult"]=="H")]["FullTimeResult"].count()
+  print(f"--- Team Analysis ---\nHome wins: {home}\nAway wins: {away}")
  
 def task3(df):
-  print("WIP")
+  teamName = input("What\'s the team name?").strip()
+  home = df[(df["HomeTeam"]==teamName)]["FullTimeHomeTeamGoals"].mean()
+  away = df[(df["AwayTeam"]==teamName)]["FullTimeAwayTeamGoals"].mean()
+  print(f"--- Average Goals ---\nHome wins: {home:.2f}\nAway wins: {away:.2f}")
  
 def task4(df):
-  print("WIP")
- 
+    team1Name = input("What\'s the team name?").strip()
+    team2Name = input("What\'s the team name?").strip()
+    matches = df[((df["HomeTeam"]==team1Name) & (df["AwayTeam"]==team2Name)) | ((df["HomeTeam"]==team2Name)&(df["AwayTeam"]==team1Name))]["HomeTeam"].count()
+    print("Matches played:", matches)
+
+def task5(df):
+  
 menu()
