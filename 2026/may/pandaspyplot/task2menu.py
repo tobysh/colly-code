@@ -16,7 +16,7 @@ def employeesInDept():
       departments = df["Department"].unique()
       department = ""
       while department not in departments:
-            department = input("Enter the department")
+            department = input("Enter the department:\n>")
       employees = df[df["Department"]==department]["Name"]
       print(employees)
 
