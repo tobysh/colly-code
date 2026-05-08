@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv(get_path(file_name="employees.csv"))
 
 #Task A
-sel = df.iloc[0:5,0:3]
+sel = df.iloc[0:4,0:2]
 print(sel)
 print()
 
